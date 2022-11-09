@@ -1,0 +1,97 @@
+#container {
+  width: 70%;
+  margin: -20px auto;
+  display: flex;
+  /* border: 1px solid red; */
+  height: 700px;
+}
+#imgg {
+  /* border: 1px solid rgb(98, 0, 0); */
+  width: 45%;
+  height: 90%;
+  margin: 30px;
+}
+#imgg > img {
+  width: 100%;
+  height: 90%;
+}
+#detail {
+  /* border: 1px solid blue; */
+  width: 55%;
+  height: 90%;
+  margin: 10px;
+  padding: 15px;
+}
+#detail > h3 {
+  font-size: 22px;
+}
+
+#detail > h5 {
+  font-size: 19px;
+  font-weight: 500;
+  color: #595959;
+}
+#prise {
+  display: flex;
+  gap: 10px;
+}
+#prise > p {
+  color: #58b954;
+}
+#prise > h4 {
+  text-decoration: line-through;
+  color: rgb(113, 113, 113);
+}
+#tax {
+  margin-top: -20px;
+  color: rgb(113, 113, 113);
+}
+#detail > button {
+  width: 60px;
+  height: 30px;
+}
+#pre {
+  background-color: #595959;
+  display: inline-block;
+  color: white;
+  padding: 5px;
+}
+#select {
+  display: flex;
+  gap: 20px;
+}
+#select > h4 {
+  margin-top: 9px;
+}
+#select > select {
+  width: 70px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#addcart {
+  width: 90%;
+  margin: auto;
+  padding: 10px 20px;
+}
+#addcart > button {
+  width: 200px;
+  height: 40px;
+  border: 0px;
+  border-radius: 5px;
+}
+#addcart > button:nth-child(1) {
+  color: black;
+  background-color: #fcd84d;
+}
+ul {
+  color: #595959;
+}
+#floww {
+  margin-left: 105px;
+  color: #595959;
+}
+#floww:hover {
+  cursor: pointer;
+}
