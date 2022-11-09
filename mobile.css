@@ -1,0 +1,17 @@
+#imgdiv {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(5, 600px);
+  grid-gap: 20px;
+}
+#imgdiv > div {
+  /* padding: 25px; */
+  margin: 0px;
+  height: 750px;
+}
+#imgdiv img {
+  width: 100%;
+  height: 60%;
+}
