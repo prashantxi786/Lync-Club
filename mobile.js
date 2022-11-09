@@ -65,11 +65,9 @@ const vivoFun = () => {
   let z = vivo();
   document.getElementById("model").innerHTML = z;
 };
-
 const vivo = () => {
   return `<option value="">Select Model</option><option class="device--options" value="Vivo Y20">Vivo Y20</option><option class="device--options" value="Vivo X60">Vivo X60</option><option class="device--options" value="Vivo V20">Vivo V20</option><option class="device--options" value="Vivo V19">Vivo V19</option><option class="device--options" value="Vivo S1 Pro">Vivo S1 Pro</option><option class="device--options" value="Vivo V17">Vivo V17</option><option class="device--options" value="Vivo S1">Vivo S1</option><option class="device--options" value="Vivo Z1 Pro">Vivo Z1 Pro</option><option class="device--options" value="Vivo Y91">Vivo Y91</option><option class="device--options" value="Vivo V5s">Vivo V5s</option><option class="device--options" value="Vivo V5">Vivo V5</option><option class="device--options" value="Vivo V11 Pro">Vivo V11 Pro</option><option class="device--options" value="Vivo V15 Pro">Vivo V15 Pro</option><option class="device--options" value="Vivo V15">Vivo V15</option><option class="device--options" value="Vivo V21">Vivo V21</option><option class="device--options" value="Vivo Y12s">Vivo Y12s</option><option class="device--options" value="Vivo Y73">Vivo Y73</option><option class="device--options" value="Vivo V20 SE">Vivo V20 SE</option><option class="device--options" value="Vivo Y21">Vivo Y21</option><option class="device--options" value="Vivo U10">Vivo U10</option><option class="device--options" value="Vivo V17 Pro">Vivo V17 Pro</option><option class="device--options" value="Vivo V20 Pro">Vivo V20 Pro</option><option class="device--options" value="Vivo V23 Pro 5G">Vivo V23 Pro 5G</option><option class="device--options" value="Vivo V21e">Vivo V21e</option><option class="device--options" value="Vivo V23 5G">Vivo V23 5G</option><option class="device--options" value="Vivo X50 Pro">Vivo X50 Pro</option><option class="device--options" value="Vivo X50">Vivo X50</option><option class="device--options" value="Vivo X60 Pro">Vivo X60 Pro</option><option class="device--options" value="Vivo X70 Pro">Vivo X70 Pro</option><option class="device--options" value="Vivo X70 Pro Plus">Vivo X70 Pro Plus</option><option class="device--options" value="Vivo Y51 2020">Vivo Y51 2020</option><option class="device--options" value="Vivo V23e 5G">Vivo V23e 5G</option><option class="device--options" value="Vivo Y15s">Vivo Y15s</option><option class="device--options" value="Vivo Y75 5G">Vivo Y75 5G</option><option class="device--options" value="IQOO9 5G">IQOO9 5G</option>`;
 };
-
 const oppoFun = () => {
   let z = oppo();
   document.getElementById("model").innerHTML = z;
@@ -78,37 +76,66 @@ const oppo = () => {
   return `<option value="">Select Model</option><option class="device--options" value="Oppo F19">Oppo F19</option><option class="device--options" value="Oppo A54">Oppo A54</option><option class="device--options" value="Oppo Reno 5 Pro">Oppo Reno 5 Pro</option><option class="device--options" value="Oppo F17 Pro">Oppo F17 Pro</option><option class="device--options" value="Oppo F17">Oppo F17</option><option class="device--options" value="Oppo A53">Oppo A53</option><option class="device--options" value="Oppo A31">Oppo A31</option><option class="device--options" value="Oppo F15">Oppo F15</option><option class="device--options" value="Oppo A5 2020">Oppo A5 2020</option><option class="device--options" value="Oppo Reno 2">Oppo Reno 2</option><option class="device--options" value="Oppo A5s">Oppo A5s</option><option class="device--options" value="Oppo A7">Oppo A7</option><option class="device--options" value="Oppo F11 Pro">Oppo F11 Pro</option><option class="device--options" value="Oppo F9 Pro">Oppo F9 Pro</option><option class="device--options" value="Oppo A3S">Oppo A3S</option><option class="device--options" value="Oppo F11">Oppo F11</option><option class="device--options" value="Oppo A9 2020">Oppo A9 2020</option><option class="device--options" value="Oppo A74">Oppo A74</option><option class="device--options" value="Oppo Reno 3 Pro">Oppo Reno 3 Pro</option><option class="device--options" value="Oppo Reno 6 Pro">Oppo Reno 6 Pro</option><option class="device--options" value="Oppo A15">Oppo A15</option><option class="device--options" value="Oppo Reno 6 5G">Oppo Reno 6 5G</option><option class="device--options" value="Oppo Reno 7 5G">Oppo Reno 7 5G</option><option class="device--options" value="Oppo Reno 7 Pro 5G">Oppo Reno 7 Pro 5G</option><option class="device--options" value="Oppo F19 Pro">Oppo F19 Pro</option><option class="device--options" value="Oppo F19 Pro Plus">Oppo F19 Pro Plus</option><option class="device--options" value="Oppo Find X2">Oppo Find X2</option><option class="device--options" value="Oppo A55">Oppo A55</option><option class="device--options" value="Oppo Reno 3">Oppo Reno 3</option><option class="device--options" value="Oppo Reno 4 Pro">Oppo Reno 4 Pro</option><option class="device--options" value="Oppo A16K">Oppo A16K</option><option class="device--options" value="OPPO F21 Pro">OPPO F21 Pro</option><option class="device--options" value="OPPO F21 Pro 5G">OPPO F21 Pro 5G</option><option class="device--options" value="Oppo K10 5G">Oppo K10 5G</option><option class="device--options" value="Oppo A57 4G">Oppo A57 4G</option><option class="device--options" value="Oppo Reno8 5G">Oppo Reno8 5G</option><option class="device--options" value="Oppo Reno8 Pro 5G">Oppo Reno8 Pro 5G</option><option class="device--options" value="Oppo A36">Oppo A36</option>`;
 };
 
+let imdv = document.getElementById("imgdiv");
 let x = document.getElementById("sub");
 x.addEventListener("click", (event) => {
   event.preventDefault();
   // console.log(inp.value);
   apicallFun(inp.value);
+  let hid = document.getElementById("indata");
+  hid.style.display = "none";
 });
-
+let floww = document.getElementById("floww");
+floww.addEventListener("click", () => {
+  floww.innerText = `Home/Mobile-cover`;
+  let hid = document.getElementById("indata");
+  hid.style.display = "flex";
+});
+let pd = document.getElementById("pdname");
 const apicallFun = async (x) => {
+  imdv.style.display = "grid";
+  pd.innerText = `${x} Back Covers & Cases`;
+  floww.innerText = `Home/Mobile-cover/${x}`;
   let res = await fetch(`http://localhost:3000/${x}`);
   let data = await res.json();
   // console.log(data);
-  mobileappend(data);
+  mobileappend(data, x);
 };
 
 let imgdiv = document.getElementById("imgdiv");
-const mobileappend = (x) => {
-  // console.log(x);
+const mobileappend = (x, bd) => {
+  console.log(x);
   imgdiv.innerHTML = null;
   x.forEach((el) => {
     let div = document.createElement("div");
+    div.addEventListener("click", () => {
+      // console.log(el.name);
+      localStorage.setItem("cover", JSON.stringify(el));
+      localStorage.setItem("brand", bd);
+      window.location.href = "detail.html";
+    });
     let cpname = document.createElement("h3");
     cpname.innerText = "LYNC CLUB";
     let img = document.createElement("img");
     img.src = el.image;
     let price = document.createElement("p");
-    price.innerText = 499;
+    price.innerText = "₹" + 499;
     let name = document.createElement("p");
     name.innerText = el.name;
 
-    div.append(img, cpname,price, name);
+    div.append(img, cpname, price, name);
 
     imgdiv.append(div);
   });
 };
+let popu = document.querySelectorAll(".mee>td");
+// console.log(popu);
+popu.forEach((el) => {
+  // console.log(el);
+  el.addEventListener("click", () => {
+    apicallFun(el.innerText);
+    imgdiv.style.display = "grid";
+    let hid = document.getElementById("indata");
+    hid.style.display = "none";
+  });
+});
