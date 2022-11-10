@@ -1,14 +1,5 @@
-// // console.log(x.value);
-// let x = document.getElementById("frm");
-// x.addEventListener("submit", myFun);
-
-// function myFun(event) {
-//   event.preventDefault();
-
-//   let y = document.getElementById("Brand").value;
-//   console.log(y);
-// }
-
+import { navbar } from "./navbar.js";
+document.getElementById("navbar").innerHTML = navbar();
 let inp = document.getElementById("Brand");
 inp.addEventListener("change", () => {
   //   let y = document.getElementById("Brand").value;
