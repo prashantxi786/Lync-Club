@@ -1,3 +1,5 @@
+import { navbar } from "./navbar.js";
+document.getElementById("navbar").innerHTML = navbar();
 let data = JSON.parse(localStorage.getItem("cover"));
 let b = localStorage.getItem("brand");
 let x = b.toUpperCase();
