@@ -77,3 +77,141 @@ p {
 p a {
   color: #42a2a2;
 }
+
+/* here */
+#navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  width: 100%;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+}
+#logo {
+  width: 147px;
+  height: 52px;
+}
+#img {
+  width: 195px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+}
+#mwm {
+  width: 487.5px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.men {
+  position: relative;
+  display: inline-block;
+  float: right;
+}
+.dropdown {
+  display: none;
+  position: absolute;
+  margin-top: 16px;
+  background-color: white;
+  min-width: 160px;
+  width: 500px;
+  height: 300px;
+  z-index: 1;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.dropdown a {
+  text-decoration: none;
+  display: block;
+  color: rgba(11, 6, 6, 0.589);
+
+  font-size: 12px;
+}
+.dropdown a:hover {
+  background-color: grey;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 2px;
+  font-size: 15px;
+}
+.men:hover .dropdown {
+  display: block;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 15px;
+}
+#men,
+#women,
+#mc {
+  text-decoration: none;
+  color: black;
+}
+#sldiv {
+  width: 487.5px;
+  height: 52px;
+  display: flex;
+}
+#mwmdiv {
+  width: 287.93px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#mwmdiv > a {
+  text-decoration: none;
+  color: black;
+}
+#inputdiv {
+  width: 285.29px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 9px;
+}
+#searchbar {
+  width: 270.28px;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ebeaeb;
+  border-radius: 5px;
+}
+#logindiv {
+  display: flex;
+  width: 184.21px;
+  height: 52px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#login {
+  text-decoration: none;
+  color: black;
+}
+#seperator {
+  border-left: solid 1px;
+  width: 1px;
+  height: 20px;
+}
+#cart {
+  width: 20px;
+  height: 20px;
+}
+#countryicon {
+  width: 30px;
+  height: 30px;
+}
+#inputbar {
+  width: 81%;
+  font-size: 11px;
+  background-color: #ebeaeb;
+  line-height: 1.5px;
+  border: none;
+}
+#searchicon {
+  width: 18px;
+  height: 17.6px;
+  font-size: 18px;
+}
