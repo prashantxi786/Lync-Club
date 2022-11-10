@@ -1,4 +1,5 @@
 let cdata = JSON.parse(localStorage.getItem("cart"));
+let discodata = cdata.length * 100;
 console.log(cdata);
 const seleopt = () => {
   return `
@@ -33,6 +34,7 @@ const seleopt = () => {
     10
   </Option>`;
 };
+let total = 0;
 let appe = document.getElementById("lft");
 const append = (data) => {
   appe.innerHTML = null;
@@ -49,10 +51,11 @@ const append = (data) => {
     name.innerText = el.name;
 
     let price = document.createElement("h2");
-    price.innerText = el.pric;
+    price.innerText = el.pric + 100;
+    total += el.pric + 100;
 
     let line = document.createElement("p");
-    line.innerText = "You saved 250rs!";
+    line.innerText = "You saved 100rs!";
 
     let Select = document.createElement("select");
     Select.innerHTML = seleopt();
@@ -81,9 +84,39 @@ const append = (data) => {
   });
 };
 append(cdata);
-
+let x = 0;
 const remFun = (i) => {
   cdata.splice(i, 1);
   localStorage.setItem("cart", JSON.stringify(cdata));
   append(cdata);
+  location.reload();
 };
+
+let totalmrp = document.getElementById("totalmrp");
+totalmrp.innerText = total;
+let subtotal = document.getElementById("subtotal");
+subtotal.innerText = total - discodata;
+let totalprice = document.getElementById("totalprice");
+totalprice.innerText = total - discodata;
+
+let disco = document.getElementById("disco");
+disco.innerText = discodata;
+
+let bagdisc = document.getElementById("bagdisc");
+bagdisc.innerText = discodata;
+
+let cuppn = document.getElementById("cuppn");
+cuppn.addEventListener("click", () => {
+  let val = prompt("Enter coupancode");
+  // console.log(val);
+  if (val == "MASAI200") {
+    totalprice.innerText = total - discodata - 200;
+    subtotal.innerText = total - discodata - 200;
+    bagdisc.innerText = discodata + 200;
+    disco.innerText = discodata + 200;
+    let cupsus = document.getElementById("cupsus");
+    cupsus.innerText = "CONGRATULATION you got 200 off !!!";
+  } else {
+    alert("Enter Valid Coupan code");
+  }
+});

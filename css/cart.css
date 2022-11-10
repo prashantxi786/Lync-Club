@@ -171,3 +171,7 @@
   border: 0px;
   border-radius: 10px;
 }
+#cuppn:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

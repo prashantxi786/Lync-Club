@@ -31,7 +31,7 @@ let qty = document.getElementById("qty");
 const cartFun = () => {
   data.brand = b;
   data.qty = qty.value;
-  data.pric = 499;
+  data.pric = 399;
   let arr = JSON.parse(localStorage.getItem("cart")) || [];
   arr.push(data);
   // arr.push(b);
