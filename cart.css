@@ -1,0 +1,17 @@
+#main {
+  width: 80%;
+  margin: auto;
+  border: 1px solid red;
+  display: flex;
+  height: 500px;
+}
+#lft {
+  width: 60%;
+  padding: 10px;
+  border: 1px solid green;
+}
+#rgt {
+  width: 40%;
+  padding: 10px;
+  border: 1px solid blue;
+}

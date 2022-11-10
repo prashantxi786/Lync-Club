@@ -20,3 +20,19 @@ let floww = document.getElementById("floww");
 floww.addEventListener("click", () => {
   window.location.href = "mobile.html";
 });
+
+let lastp = document.getElementById("1");
+lastp.addEventListener("click", () => {
+  cartFun();
+});
+
+let qty = document.getElementById("qty");
+const cartFun = () => {
+  data.brand = b;
+  data.qty = qty.value;
+  data.pric = 499;
+  let arr = JSON.parse(localStorage.getItem("cart")) || [];
+  arr.push(data);
+  // arr.push(b);
+  localStorage.setItem("cart", JSON.stringify(arr));
+};
