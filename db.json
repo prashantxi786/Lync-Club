@@ -1,443 +1,848 @@
 {
   "Apple": [
-  {
-    "image": "https://images.bewakoof.com/t640/jet-black-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547845-1665564674-1.jpg",
-    "name": "Jet Black Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    {
+      "image": "https://images.bewakoof.com/t640/jet-black-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547845-1665564674-1.jpg",
+      "name": "Jet Black Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/black-aura-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547842-1665564843-1.jpg",
+      "name": "Black Aura Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/brave-lion-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547843-1665565179-1.jpg",
+      "name": "Brave Lion Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/cloudburst-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547847-1665565053-1.jpg",
+      "name": "Cloudburst Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/ultramarine-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547825-1665564780-1.jpg",
+      "name": "Ultramarine Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/abstract-tiles-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547832-1665564526-1.jpg",
+      "name": "Abstract Tiles Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/bold-stripes-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547827-1665564506-1.jpg",
+      "name": "Bold Stripes Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/green-marble-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547828-1665564590-1.jpg",
+      "name": "Green Marble Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/razor-black-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547829-1665564990-1.jpg",
+      "name": "Razor Black Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/patina-finish-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547830-1665565200-1.jpg",
+      "name": "Patina Finish Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/tropical-leaves-pink-flowers-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547831-1665564400-1.jpg",
+      "name": "Tropical Leaves & Pink Flowers Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    }
+  ],
+  "OnePlus": [
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/blue-resin-texture-premium-glass-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/blue-resin-texture-premium-glass-cover-for-oneplus-nord-2-551129-1667364944-1.jpg",
+      "plp": "PREMIUM GLASS COVER",
+      "clr-shade-3": 4.6,
+      "name": "Blue Resin Texture Premium Glass Cover for  OnePlus Nord 2",
+      "discountedPriceText": 499,
+      "actualPriceText": "₹1299",
+      "loyaltyPriceBox 2": "₹459"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/hatake-kakashi-ninja-designer-hard-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/hatake-kakashi-ninja-designer-hard-cover-for-oneplus-nord-2-549367-1666259821-1.jpg",
+      "plp": "DESIGNER HARD COVER",
+      "clr-shade-3": 4.5,
+      "name": "Hatake Kakashi Ninja Designer Hard Cover for OnePlus Nord 2",
+      "discountedPriceText": 299,
+      "actualPriceText": "₹499",
+      "loyaltyPriceBox 2": "₹279"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/god-is-judge-premium-glass-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/god-is-judge-premium-glass-cover-for-oneplus-nord-2-551190-1667364434-1.jpg",
+      "plp": "PREMIUM GLASS COVER",
+      "clr-shade-3": 4.6,
+      "name": "God Is Judge Premium Glass Cover for  OnePlus Nord 2",
+      "discountedPriceText": 499,
+      "actualPriceText": "₹1299",
+      "loyaltyPriceBox 2": "₹459"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/doodle-space-premium-glass-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/doodle-space-premium-glass-cover-for-oneplus-nord-2-551180-1667365700-1.jpg",
+      "plp": "PREMIUM GLASS COVER",
+      "clr-shade-3": 4.6,
+      "name": "Doodle Space Premium Glass Cover for  OnePlus Nord 2",
+      "discountedPriceText": 499,
+      "actualPriceText": "₹1299",
+      "loyaltyPriceBox 2": "₹459"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/born-bad-premium-glass-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/born-bad-premium-glass-cover-for-oneplus-nord-2-551148-1667364786-1.jpg",
+      "plp": "PREMIUM GLASS COVER",
+      "clr-shade-3": 4.5,
+      "name": "Born Bad Premium Glass Cover for  OnePlus Nord 2",
+      "discountedPriceText": 499,
+      "actualPriceText": "₹1299",
+      "loyaltyPriceBox 2": "₹459"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/joker-dance-premium-glass-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/joker-dance-premium-glass-cover-for-oneplus-nord-2-551264-1667364456-1.jpg",
+      "plp": "PREMIUM GLASS COVER",
+      "clr-shade-3": 4.7,
+      "name": "Joker Dance Premium Glass Cover for  OnePlus Nord 2",
+      "discountedPriceText": 499,
+      "actualPriceText": "₹1299",
+      "loyaltyPriceBox 2": "₹459"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/itachi-manga-premium-glass-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/itachi-manga-premium-glass-cover-for-oneplus-nord-2-551238-1667365806-1.jpg",
+      "plp": "PREMIUM GLASS COVER",
+      "clr-shade-3": 4.6,
+      "name": "Itachi Manga Premium Glass Cover for  OnePlus Nord 2",
+      "discountedPriceText": 499,
+      "actualPriceText": "₹1299",
+      "loyaltyPriceBox 2": "₹459"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/team-kakashi-premium-glass-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/team-kakashi-premium-glass-cover-for-oneplus-nord-2-551414-1666870186-1.jpg",
+      "plp": "PREMIUM GLASS COVER",
+      "clr-shade-3": 4.6,
+      "name": "Team Kakashi Premium Glass Cover for  OnePlus Nord 2",
+      "discountedPriceText": 499,
+      "actualPriceText": "₹1299",
+      "loyaltyPriceBox 2": "₹459"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/itachi-manga-designer-hard-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/itachi-manga-designer-hard-cover-for-oneplus-nord-2-546834-1665045679-1.jpg",
+      "plp": "DESIGNER HARD COVER",
+      "clr-shade-3": 4.6,
+      "name": "Itachi Manga Designer Hard Cover for OnePlus Nord 2",
+      "discountedPriceText": 299,
+      "actualPriceText": "₹499",
+      "loyaltyPriceBox 2": "₹279"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/dragons-of-hod-designer-hard-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/dragons-of-hod-designer-hard-cover-for-oneplus-nord-2-549863-1666258959-1.jpg",
+      "plp": "DESIGNER HARD COVER",
+      "clr-shade-3": 4.7,
+      "name": "Dragons Of Hod Designer Hard Cover for OnePlus Nord 2",
+      "discountedPriceText": 299,
+      "actualPriceText": "₹499",
+      "loyaltyPriceBox 2": "₹279"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/starboy-weeknd-designer-hard-cover-for-oneplus-nord-2",
+      "image": "https://images.bewakoof.com/t640/starboy-weeknd-designer-hard-cover-for-oneplus-nord-2-549625-1666260045-1.jpg",
+      "plp": "DESIGNER HARD COVER",
+      "clr-shade-3": 4.6,
+      "name": "Starboy Weeknd Designer Hard Cover for OnePlus Nord 2",
+      "discountedPriceText": 299,
+      "actualPriceText": "₹499",
+      "loyaltyPriceBox 2": "₹279"
+    }
+  ],
+  "Xiaomi": [
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/dragons-of-hod-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/dragons-of-hod-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-549957-1666261573-1.jpg",
+      "name": "Dragons Of Hod Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/blinding-lights-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/blinding-lights-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-549829-1666262320-1.jpg",
+      "name": "Blinding Lights Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/gyaan-na-de-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/gyaan-na-de-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-545512-1664459087-1.jpg",
+      "name": "Gyaan Na De Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/itachi-manga-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/itachi-manga-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-546883-1665044429-1.jpg",
+      "name": "Itachi Manga Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/phirse-udd-chala-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/phirse-udd-chala-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-547264-1665047132-1.jpg",
+      "name": "Phirse Udd Chala Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/tropical-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/tropical-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-545010-1664460439-1.jpg",
+      "name": "Tropical Lineart Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/kakashi-sensei-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/kakashi-sensei-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-545405-1664459768-1.jpg",
+      "name": "Kakashi Sensei Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/modern-geometry-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/modern-geometry-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-543174-1663760036-1.jpg",
+      "name": "Modern Geometry Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/bad-boy-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/bad-boy-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-543035-1663762862-1.jpg",
+      "name": "Bad Boy Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/abstract-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/abstract-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-542168-1663250985-1.jpg",
+      "name": "Abstract Lineart Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/toxic-friends-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
+      "image": "https://images.bewakoof.com/t640/toxic-friends-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-541904-1663252344-1.jpg",
+      "name": "Toxic Friends Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+    }
+  ],
+  "Samsung": [
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/qrioh-colorful-aura-glass-case-for-samsung-galaxy-s20-plus",
+      "image": "https://images.bewakoof.com/t320/qrioh-colorful-aura-glass-case-for-samsung-galaxy-s20-plus-407674-1632330071-1.jpg",
+      "name": "Colorful Aura Glass Case For Samsung Galaxy S20 Plus"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/butterfly-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish",
+      "image": "https://images.bewakoof.com/t640/butterfly-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish-531911-1659622257-1.jpg",
+      "name": "Butterfly Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/nda-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
+      "image": "https://images.bewakoof.com/t640/nda-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531917-1659617271-1.jpg",
+      "name": "nda Typography Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/sailor-blue-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish",
+      "image": "https://images.bewakoof.com/t640/sailor-blue-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish-531919-1659617817-1.jpg",
+      "name": "Sailor Blue Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/dope-in-life-taphy-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
+      "image": "https://images.bewakoof.com/t640/dope-in-life-taphy-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531920-1659617776-1.jpg",
+      "name": "Dope In Life Taphy Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/do-not-disturb-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
+      "image": "https://images.bewakoof.com/t640/do-not-disturb-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531922-1659614201-1.jpg",
+      "name": "Do Not Disturb Typography Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/abstract-faces-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
+      "image": "https://images.bewakoof.com/t640/abstract-faces-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531923-1659613680-1.jpg",
+      "name": "Abstract Faces Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/planet-play-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish",
+      "image": "https://images.bewakoof.com/t640/planet-play-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish-531924-1659617207-1.jpg",
+      "name": "Planet Play Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/dazzling-ocean-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
+      "image": "https://images.bewakoof.com/t640/dazzling-ocean-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531925-1659614264-1.jpg",
+      "name": "Dazzling Ocean Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/kitty-in-pocket-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
+      "image": "https://images.bewakoof.com/t640/kitty-in-pocket-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531928-1659619322-1.jpg",
+      "name": "Kitty In Pocket Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/true-genius-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
+      "image": "https://images.bewakoof.com/t640/true-genius-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531940-1659619824-1.jpg",
+      "name": "True Genius Typography Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
+    }
+  ],
+  "Vivo": [
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/blue-raging-tides-printed-premium-glass-cover-for-vivo-v20-pro-unisex",
+      "image": "https://images.bewakoof.com/t320/blue-raging-tides-printed-premium-glass-cover-for-vivo-v20-pro-483139-1648223463-1.jpg",
+      "name": "Raging Tides Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/blue-retro-art-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/blue-retro-art-printed-premium-glass-cover-for-vivo-v20-pro-483116-1648223377-1.jpg",
+      "name": "Retro Art Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/black-tropical-leaves-flowers-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/black-tropical-leaves-flowers-printed-premium-glass-cover-for-vivo-v20-pro-483117-1648223217-1.jpg",
+      "name": "Leaves & Flowers Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/blue-cloudburst-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/blue-cloudburst-printed-premium-glass-cover-for-vivo-v20-pro-483119-1648223602-1.jpg",
+      "name": "Cloudburst Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/beige-elegant-floral-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/beige-elegant-floral-printed-premium-glass-cover-for-vivo-v20-pro-483112-1648223591-1.jpg",
+      "name": "Elegant Floral Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/blue-abstract-tiles-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/blue-abstract-tiles-printed-premium-glass-cover-for-vivo-v20-pro-483113-1648223581-1.jpg",
+      "name": "Abstract Tiles Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/green-marble-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/green-marble-printed-premium-glass-cover-for-vivo-v20-pro-483110-1648223442-1.jpg",
+      "name": "Marble Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/purple-pink-space-doodles-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/purple-pink-space-doodles-printed-premium-glass-cover-for-vivo-v20-pro-483120-1648223409-1.jpg",
+      "name": "Space Doodles Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/brown-blue-bold-stripes-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/brown-blue-bold-stripes-printed-premium-glass-cover-for-vivo-v20-pro-483123-1648223527-1.jpg",
+      "name": "Bold Stripes Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/black-aura-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/black-aura-printed-premium-glass-cover-for-vivo-v20-pro-483127-1648223282-1.jpg",
+      "name": "Aura Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/black-blue-ultramarine-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/black-blue-ultramarine-printed-premium-glass-cover-for-vivo-v20-pro-483128-1648223356-1.jpg",
+      "name": "Ultramarine Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/blue-pink-fluid-printed-premium-glass-cover-for-vivo-v20-pro-unisex",
+      "image": "https://images.bewakoof.com/t320/blue-pink-fluid-printed-premium-glass-cover-for-vivo-v20-pro-483135-1648223612-1.jpg",
+      "name": "Fluid Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/purple-blue-aura-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/purple-blue-aura-printed-premium-glass-cover-for-vivo-v20-pro-483121-1648223495-1.jpg",
+      "name": "Aura Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/jet-black-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/jet-black-premium-glass-cover-for-vivo-v20-pro-483118-1648223292-1.jpg",
+      "name": "Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/black-brave-lion-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/black-brave-lion-printed-premium-glass-cover-for-vivo-v20-pro-483114-1648223250-1.jpg",
+      "name": "Brave Lion Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/purple-black-razor-printed-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/purple-black-razor-printed-premium-glass-cover-for-vivo-v20-pro-483126-1648223559-1.jpg",
+      "name": "Razor Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/maroon-premium-glass-cover-for-vivo-v20-pro",
+      "image": "https://images.bewakoof.com/t320/maroon-premium-glass-cover-for-vivo-v20-pro-483115-1648223538-1.jpg",
+      "name": "Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+    }
+  ],
+  "Oppo": [
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/dazzling-ocean-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/dazzling-ocean-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527591-1659100795-1.jpg",
+      "name": "Dazzling Ocean Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/abstract-faces-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/abstract-faces-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527593-1659099731-1.jpg",
+      "name": "Abstract Faces Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/striped-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/striped-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527589-1659100357-1.jpg",
+      "name": "Striped Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/struggling-panda-typography-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/struggling-panda-typography-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527583-1659101295-1.jpg",
+      "name": "Struggling Panda Typography Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/moon-wolf-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/moon-wolf-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527580-1659099396-1.jpg",
+      "name": "Moon Wolf Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/lion-the-king-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/lion-the-king-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527616-1659100630-1.jpg",
+      "name": "Lion The King Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/worship-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/worship-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527612-1659099438-1.jpg",
+      "name": "Worship Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/royal-bike-typography-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/royal-bike-typography-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527613-1659099920-1.jpg",
+      "name": "Royal Bike Typography Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/moon-night-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/moon-night-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527596-1659100588-1.jpg",
+      "name": "Moon Night Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/red-moon-tiger-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/red-moon-tiger-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527600-1659100380-1.jpg",
+      "name": "Red Moon Tiger Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/king-life-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/king-life-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527605-1659099396-1.jpg",
+      "name": "King Life Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/retro-gorgeous-flower-printed-premium-glass-cover-for-oppo-reno7-5g",
+      "image": "https://images.bewakoof.com/t640/retro-gorgeous-flower-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527604-1659099710-1.jpg",
+      "name": "Retro Gorgeous Flower Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight",
+      "image": "https://images.bewakoof.com/t320/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-485006-1648618944-1.jpg",
+      "name": "Aura Printed Premium Glass Cover for Oppo Reno 7 5G (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-unisex",
+      "image": "https://images.bewakoof.com/t320/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-485015-1648618775-1.jpg",
+      "name": "Aura Printed Premium Glass Cover for Oppo Reno 7 5G (Shock Proof, Lightweight)"
+    },
+    {
+      "col-sm-4 href": "https://www.bewakoof.com/p/retro-art-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight",
+      "image": "https://images.bewakoof.com/t320/retro-art-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-485002-1648618996-1.jpg",
+      "name": "Retro Art Printed Premium Glass Cover for Oppo Reno 7 5G (Shock Proof, Lightweight)"
+    }
+  ],
+  "men": [
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-what-the-duck-graphic-printed-oversized-t-shirt-553306-1667891652-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black What The Duck Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "tribe": "₹559For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-inspire-graphic-printed-oversized-t-shirt-553301-1667891608-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black Inspire Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt-552896-1667807394-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black Growing Up Is Overrated Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-purrnisher-graphic-printed-oversized-t-shirt-552898-1667807326-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black The Purrnisher Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "tribe": "₹559For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-what-the-duck-graphic-printed-oversized-t-shirt-553308-1667891931-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "description": "Men's White What The Duck Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "tribe": "₹559For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552846-1667574993-1.jpg",
+      "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "description": "Men's Green Travelling Cat Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/it-s-a-deal-half-sleeve-t-shirt-552837-1667574877-1.jpg",
+      "url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "price": "₹329",
+      "price_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "description": "Men's White It's a Deal Graphic Printed T-shirt",
+      "description_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "tribe": "₹309For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-dope-bear-graphic-printed-oversized-t-shirt-547532-1667563188-1.jpg",
+      "url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "price": "₹537",
+      "price_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "description": "Men's Blue Dope Bear Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "tribe": "₹489For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/customizable-men-s-black-full-sleeves-t-shirt-500171-1655815078-1.jpg",
+      "url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "description": "Customizable Men's Black Full Sleeves T-Shirt",
+      "description_url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "tribe": "₹549For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/custom-design?pid=500171"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552860-1667575317-1.jpg",
+      "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "description": "Men's White Travelling Cat Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/peace-out-astronaut-half-sleeve-t-shirt-black-302574-1655749064-1.jpg",
+      "url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "price": "₹358",
+      "price_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "description": "Peace Out Astronaut Half Sleeve T-Shirt Black",
+      "description_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "tribe": "₹329For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black"
+    }
+  ],
+  "women": [
+    {
+      "image": "https://images.bewakoof.com/t640/customizable-women-s-red-boyfriend-t-shirt-540833-1662452084-1.jpg",
+      "url": "https://www.bewakoof.com/custom-design?pid=540833",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/custom-design?pid=540833",
+      "description": "Women's Red Customizable Boyfriend T-shirt",
+      "description_url": "https://www.bewakoof.com/custom-design?pid=540833",
+      "price": "₹549",
+      "price_url": "https://www.bewakoof.com/custom-design?pid=540833",
+      "tribe": "₹509For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/custom-design?pid=540833"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-blue-inspire-graphic-printed-boyfriend-t-shirt-553309-1667891893-1.jpg",
+      "url": "https://www.bewakoof.com/p/womens-blue-inspire-graphic-printed-boyfriend-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/womens-blue-inspire-graphic-printed-boyfriend-t-shirt",
+      "description": "Women's Blue Inspire Graphic Printed Boyfriend T-shirt",
+      "description_url": "https://www.bewakoof.com/p/womens-blue-inspire-graphic-printed-boyfriend-t-shirt",
+      "price": "₹329",
+      "price_url": "https://www.bewakoof.com/p/womens-blue-inspire-graphic-printed-boyfriend-t-shirt",
+      "tribe": "₹309For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/womens-blue-inspire-graphic-printed-boyfriend-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-orange-inspire-graphic-printed-oversized-t-shirt-553310-1667891812-1.jpg",
+      "url": "https://www.bewakoof.com/p/womens-orange-inspire-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/womens-orange-inspire-graphic-printed-oversized-t-shirt",
+      "description": "Women's Orange Inspire Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/womens-orange-inspire-graphic-printed-oversized-t-shirt",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/womens-orange-inspire-graphic-printed-oversized-t-shirt",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/womens-orange-inspire-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/it-s-a-deal-boyfriend-t-shirt-552848-1667574914-1.jpg",
+      "url": "https://www.bewakoof.com/p/its-a-deal-boyfriend-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/its-a-deal-boyfriend-t-shirt",
+      "description": "Women's Yellow It's a Deal Graphic Printed Boyfriend T-shirt",
+      "description_url": "https://www.bewakoof.com/p/its-a-deal-boyfriend-t-shirt",
+      "price": "₹329",
+      "price_url": "https://www.bewakoof.com/p/its-a-deal-boyfriend-t-shirt",
+      "tribe": "₹309For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/its-a-deal-boyfriend-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/it-s-a-deal-oversized-fit-t-shirt-552849-1667575274-1.jpg",
+      "url": "https://www.bewakoof.com/p/its-a-deal-oversized-fit-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/its-a-deal-oversized-fit-t-shirt",
+      "description": "Women's Pink It's a Deal Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/its-a-deal-oversized-fit-t-shirt",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/its-a-deal-oversized-fit-t-shirt",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/its-a-deal-oversized-fit-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/bewakoof-customizable-women-white-boyfriend-fit-t-shirt-489854-1655816828-1.jpg",
+      "url": "https://www.bewakoof.com/custom-design?pid=489854",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/custom-design?pid=489854",
+      "description": "Customizable Women White Boyfriend Fit T Shirt",
+      "description_url": "https://www.bewakoof.com/custom-design?pid=489854",
+      "price": "₹549",
+      "price_url": "https://www.bewakoof.com/custom-design?pid=489854",
+      "tribe": "₹509For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/custom-design?pid=489854"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-blue-dream-big-jerry-3-4-sleeve-t-shirts-544371-1664371235-1.jpg",
+      "url": "https://www.bewakoof.com/p/womens-blue-dream-big-jerry-3-4-sleeve-t-shirts",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/womens-blue-dream-big-jerry-3-4-sleeve-t-shirts",
+      "description": "Women's Blue Dream Big Jerry Graphic Printed 3/4th Sleeve T-shirt",
+      "description_url": "https://www.bewakoof.com/p/womens-blue-dream-big-jerry-3-4-sleeve-t-shirts",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/womens-blue-dream-big-jerry-3-4-sleeve-t-shirts",
+      "tribe": "₹549For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/womens-blue-dream-big-jerry-3-4-sleeve-t-shirts"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-pink-bonjour-paris-3-4-sleeve-t-shirts-544388-1664371779-1.jpg",
+      "url": "https://www.bewakoof.com/p/womens-pink-bonjour-paris-3-4-sleeve-t-shirts",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/womens-pink-bonjour-paris-3-4-sleeve-t-shirts",
+      "description": "Women's Pink Bonjour Paris Graphic Printed 3/4th Sleeve T-shirt",
+      "description_url": "https://www.bewakoof.com/p/womens-pink-bonjour-paris-3-4-sleeve-t-shirts",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/womens-pink-bonjour-paris-3-4-sleeve-t-shirts",
+      "tribe": "₹549For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/womens-pink-bonjour-paris-3-4-sleeve-t-shirts"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-pink-busy-doing-nothing-3-4-sleeve-t-shirts-544380-1664371621-1.jpg",
+      "url": "https://www.bewakoof.com/p/womens-pink-busy-doing-nothing-3-4-sleeve-t-shirts",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/womens-pink-busy-doing-nothing-3-4-sleeve-t-shirts",
+      "description": "Women's Pink Busy Doing Nothing Graphic Printed 3/4th Sleeve T-shirt",
+      "description_url": "https://www.bewakoof.com/p/womens-pink-busy-doing-nothing-3-4-sleeve-t-shirts",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/womens-pink-busy-doing-nothing-3-4-sleeve-t-shirts",
+      "tribe": "₹549For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/womens-pink-busy-doing-nothing-3-4-sleeve-t-shirts"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-blue-army-3-4-sleeve-t-shirts-544375-1664371852-1.jpg",
+      "url": "https://www.bewakoof.com/p/womens-blue-army-3-4-sleeve-t-shirts",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/womens-blue-army-3-4-sleeve-t-shirts",
+      "description": "Women's Blue Army Typography 3/4th Sleeve T-shirt",
+      "description_url": "https://www.bewakoof.com/p/womens-blue-army-3-4-sleeve-t-shirts",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/womens-blue-army-3-4-sleeve-t-shirts",
+      "tribe": "₹549For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/womens-blue-army-3-4-sleeve-t-shirts"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-pink-opinion-about-me-3-4-sleeve-t-shirts-544372-1664371394-1.jpg",
+      "url": "https://www.bewakoof.com/p/womens-pink-opinion-about-me-3-4-sleeve-t-shirts",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/womens-pink-opinion-about-me-3-4-sleeve-t-shirts",
+      "description": "Women's Pink Opinion About Me Graphic Printed 3/4th Sleeve T-shirt",
+      "description_url": "https://www.bewakoof.com/p/womens-pink-opinion-about-me-3-4-sleeve-t-shirts",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/womens-pink-opinion-about-me-3-4-sleeve-t-shirts",
+      "tribe": "₹549For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/womens-pink-opinion-about-me-3-4-sleeve-t-shirts"
+    }
+  ],
+  "posts": [
+    {
+      "brand": "masai",
+      "image": "asdf",
+      "price": "1200",
+      "description": "shirt",
+      "id": 1
+    }
+  ],
+  "mens":[{
+    "image": "https://images.bewakoof.com/t640/men-s-black-what-the-duck-graphic-printed-oversized-t-shirt-553306-1667891652-1.jpg",
+    "url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+    "price": "₹599",
+    "price_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+    "description": "Men's Black What The Duck Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+    "tribe": "₹559For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt"
   },
   {
-    "image": "https://images.bewakoof.com/t640/black-aura-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547842-1665564843-1.jpg",
-    "name": "Black Aura Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    "image": "https://images.bewakoof.com/t640/men-s-black-inspire-graphic-printed-oversized-t-shirt-553301-1667891608-1.jpg",
+    "url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+    "price": "₹449",
+    "price_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+    "description": "Men's Black Inspire Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+    "tribe": "₹419For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt"
   },
   {
-    "image": "https://images.bewakoof.com/t640/brave-lion-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547843-1665565179-1.jpg",
-    "name": "Brave Lion Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    "image": "https://images.bewakoof.com/t640/men-s-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt-552896-1667807394-1.jpg",
+    "url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+    "price": "₹449",
+    "price_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+    "description": "Men's Black Growing Up Is Overrated Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+    "tribe": "₹419For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt"
   },
   {
-    "image": "https://images.bewakoof.com/t640/cloudburst-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547847-1665565053-1.jpg",
-    "name": "Cloudburst Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+    "image": "https://images.bewakoof.com/t640/men-s-black-the-purrnisher-graphic-printed-oversized-t-shirt-552898-1667807326-1.jpg",
+    "url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+    "price": "₹599",
+    "price_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+    "description": "Men's Black The Purrnisher Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+    "tribe": "₹559For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt"
   },
   {
+    "image": "https://images.bewakoof.com/t640/men-s-white-what-the-duck-graphic-printed-oversized-t-shirt-553308-1667891931-1.jpg",
+    "url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+    "price": "₹599",
+    "price_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+    "description": "Men's White What The Duck Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+    "tribe": "₹559For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt"
+  },
+  {
+    "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552846-1667574993-1.jpg",
+    "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+    "price": "₹449",
+    "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+    "description": "Men's Green Travelling Cat Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+    "tribe": "₹419For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men"
+  },
+  {
+    "image": "https://images.bewakoof.com/t640/it-s-a-deal-half-sleeve-t-shirt-552837-1667574877-1.jpg",
+    "url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+    "price": "₹329",
+    "price_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+    "description": "Men's White It's a Deal Graphic Printed T-shirt",
+    "description_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+    "tribe": "₹309For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt"
+  },
+  {
+    "image": "https://images.bewakoof.com/t640/men-s-blue-dope-bear-graphic-printed-oversized-t-shirt-547532-1667563188-1.jpg",
+    "url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+    "price": "₹537",
+    "price_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+    "description": "Men's Blue Dope Bear Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+    "tribe": "₹489For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men"
+  },
+  {
+    "image": "https://images.bewakoof.com/t640/customizable-men-s-black-full-sleeves-t-shirt-500171-1655815078-1.jpg",
+    "url": "https://www.bewakoof.com/custom-design?pid=500171",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/custom-design?pid=500171",
+    "price": "₹599",
+    "price_url": "https://www.bewakoof.com/custom-design?pid=500171",
+    "description": "Customizable Men's Black Full Sleeves T-Shirt",
+    "description_url": "https://www.bewakoof.com/custom-design?pid=500171",
+    "tribe": "₹549For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/custom-design?pid=500171"
+  },
+  {
+    "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552860-1667575317-1.jpg",
+    "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+    "price": "₹449",
+    "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+    "description": "Men's White Travelling Cat Graphic Printed Oversized T-shirt",
+    "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+    "tribe": "₹419For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white"
+  },
+  {
+    "image": "https://images.bewakoof.com/t640/peace-out-astronaut-half-sleeve-t-shirt-black-302574-1655749064-1.jpg",
+    "url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+    "brand": "Bewakoof",
+    "brand_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+    "price": "₹358",
+    "price_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+    "description": "Peace Out Astronaut Half Sleeve T-Shirt Black",
+    "description_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+    "tribe": "₹329For TriBe Members",
+    "tribe_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black"
+  }]
 
-    "image": "https://images.bewakoof.com/t640/ultramarine-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547825-1665564780-1.jpg",
-    "name": "Ultramarine Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
-  },
-  {
-    
-    "image": "https://images.bewakoof.com/t640/abstract-tiles-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547832-1665564526-1.jpg",
-    "name": "Abstract Tiles Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
-  },
-  {
-  
-    "image": "https://images.bewakoof.com/t640/bold-stripes-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547827-1665564506-1.jpg",
-    "name": "Bold Stripes Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
-  },
-  {
-  
-    "image": "https://images.bewakoof.com/t640/green-marble-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547828-1665564590-1.jpg",
-    "name": "Green Marble Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
-  },
-  {
-
-    "image": "https://images.bewakoof.com/t640/razor-black-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547829-1665564990-1.jpg",
-    "name": "Razor Black Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/patina-finish-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547830-1665565200-1.jpg",
-    "name": "Patina Finish Printed Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/tropical-leaves-pink-flowers-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547831-1665564400-1.jpg",
-    "name": "Tropical Leaves & Pink Flowers Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
-  }
-],
-"OnePlus":[
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/blue-resin-texture-premium-glass-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/blue-resin-texture-premium-glass-cover-for-oneplus-nord-2-551129-1667364944-1.jpg",
-    "plp": "PREMIUM GLASS COVER",
-    "clr-shade-3": 4.6,
-    "name": "Blue Resin Texture Premium Glass Cover for  OnePlus Nord 2",
-    "discountedPriceText": 499,
-    "actualPriceText": "₹1299",
-    "loyaltyPriceBox 2": "₹459"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/hatake-kakashi-ninja-designer-hard-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/hatake-kakashi-ninja-designer-hard-cover-for-oneplus-nord-2-549367-1666259821-1.jpg",
-    "plp": "DESIGNER HARD COVER",
-    "clr-shade-3": 4.5,
-    "name": "Hatake Kakashi Ninja Designer Hard Cover for OnePlus Nord 2",
-    "discountedPriceText": 299,
-    "actualPriceText": "₹499",
-    "loyaltyPriceBox 2": "₹279"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/god-is-judge-premium-glass-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/god-is-judge-premium-glass-cover-for-oneplus-nord-2-551190-1667364434-1.jpg",
-    "plp": "PREMIUM GLASS COVER",
-    "clr-shade-3": 4.6,
-    "name": "God Is Judge Premium Glass Cover for  OnePlus Nord 2",
-    "discountedPriceText": 499,
-    "actualPriceText": "₹1299",
-    "loyaltyPriceBox 2": "₹459"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/doodle-space-premium-glass-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/doodle-space-premium-glass-cover-for-oneplus-nord-2-551180-1667365700-1.jpg",
-    "plp": "PREMIUM GLASS COVER",
-    "clr-shade-3": 4.6,
-    "name": "Doodle Space Premium Glass Cover for  OnePlus Nord 2",
-    "discountedPriceText": 499,
-    "actualPriceText": "₹1299",
-    "loyaltyPriceBox 2": "₹459"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/born-bad-premium-glass-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/born-bad-premium-glass-cover-for-oneplus-nord-2-551148-1667364786-1.jpg",
-    "plp": "PREMIUM GLASS COVER",
-    "clr-shade-3": 4.5,
-    "name": "Born Bad Premium Glass Cover for  OnePlus Nord 2",
-    "discountedPriceText": 499,
-    "actualPriceText": "₹1299",
-    "loyaltyPriceBox 2": "₹459"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/joker-dance-premium-glass-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/joker-dance-premium-glass-cover-for-oneplus-nord-2-551264-1667364456-1.jpg",
-    "plp": "PREMIUM GLASS COVER",
-    "clr-shade-3": 4.7,
-    "name": "Joker Dance Premium Glass Cover for  OnePlus Nord 2",
-    "discountedPriceText": 499,
-    "actualPriceText": "₹1299",
-    "loyaltyPriceBox 2": "₹459"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/itachi-manga-premium-glass-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/itachi-manga-premium-glass-cover-for-oneplus-nord-2-551238-1667365806-1.jpg",
-    "plp": "PREMIUM GLASS COVER",
-    "clr-shade-3": 4.6,
-    "name": "Itachi Manga Premium Glass Cover for  OnePlus Nord 2",
-    "discountedPriceText": 499,
-    "actualPriceText": "₹1299",
-    "loyaltyPriceBox 2": "₹459"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/team-kakashi-premium-glass-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/team-kakashi-premium-glass-cover-for-oneplus-nord-2-551414-1666870186-1.jpg",
-    "plp": "PREMIUM GLASS COVER",
-    "clr-shade-3": 4.6,
-    "name": "Team Kakashi Premium Glass Cover for  OnePlus Nord 2",
-    "discountedPriceText": 499,
-    "actualPriceText": "₹1299",
-    "loyaltyPriceBox 2": "₹459"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/itachi-manga-designer-hard-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/itachi-manga-designer-hard-cover-for-oneplus-nord-2-546834-1665045679-1.jpg",
-    "plp": "DESIGNER HARD COVER",
-    "clr-shade-3": 4.6,
-    "name": "Itachi Manga Designer Hard Cover for OnePlus Nord 2",
-    "discountedPriceText": 299,
-    "actualPriceText": "₹499",
-    "loyaltyPriceBox 2": "₹279"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/dragons-of-hod-designer-hard-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/dragons-of-hod-designer-hard-cover-for-oneplus-nord-2-549863-1666258959-1.jpg",
-    "plp": "DESIGNER HARD COVER",
-    "clr-shade-3": 4.7,
-    "name": "Dragons Of Hod Designer Hard Cover for OnePlus Nord 2",
-    "discountedPriceText": 299,
-    "actualPriceText": "₹499",
-    "loyaltyPriceBox 2": "₹279"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/starboy-weeknd-designer-hard-cover-for-oneplus-nord-2",
-    "image": "https://images.bewakoof.com/t640/starboy-weeknd-designer-hard-cover-for-oneplus-nord-2-549625-1666260045-1.jpg",
-    "plp": "DESIGNER HARD COVER",
-    "clr-shade-3": 4.6,
-    "name": "Starboy Weeknd Designer Hard Cover for OnePlus Nord 2",
-    "discountedPriceText": 299,
-    "actualPriceText": "₹499",
-    "loyaltyPriceBox 2": "₹279"
-  }
-],
-"Xiaomi":[
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/dragons-of-hod-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/dragons-of-hod-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-549957-1666261573-1.jpg",
-    "name": "Dragons Of Hod Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/blinding-lights-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/blinding-lights-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-549829-1666262320-1.jpg",
-    "name": "Blinding Lights Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/gyaan-na-de-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/gyaan-na-de-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-545512-1664459087-1.jpg",
-    "name": "Gyaan Na De Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/itachi-manga-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/itachi-manga-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-546883-1665044429-1.jpg",
-    "name": "Itachi Manga Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/phirse-udd-chala-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/phirse-udd-chala-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-547264-1665047132-1.jpg",
-    "name": "Phirse Udd Chala Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/tropical-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/tropical-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-545010-1664460439-1.jpg",
-    "name": "Tropical Lineart Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/kakashi-sensei-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/kakashi-sensei-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-545405-1664459768-1.jpg",
-    "name": "Kakashi Sensei Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/modern-geometry-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/modern-geometry-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-543174-1663760036-1.jpg",
-    "name": "Modern Geometry Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/bad-boy-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/bad-boy-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-543035-1663762862-1.jpg",
-    "name": "Bad Boy Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/abstract-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/abstract-lineart-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-542168-1663250985-1.jpg",
-    "name": "Abstract Lineart Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/toxic-friends-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
-    "image": "https://images.bewakoof.com/t640/toxic-friends-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-541904-1663252344-1.jpg",
-    "name": "Toxic Friends Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
-  }
-],
-"Samsung":[
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/qrioh-colorful-aura-glass-case-for-samsung-galaxy-s20-plus",
-    "image": "https://images.bewakoof.com/t320/qrioh-colorful-aura-glass-case-for-samsung-galaxy-s20-plus-407674-1632330071-1.jpg",
-    "name": "Colorful Aura Glass Case For Samsung Galaxy S20 Plus"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/butterfly-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish",
-    "image": "https://images.bewakoof.com/t640/butterfly-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish-531911-1659622257-1.jpg",
-    "name": "Butterfly Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/nda-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
-    "image": "https://images.bewakoof.com/t640/nda-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531917-1659617271-1.jpg",
-    "name": "nda Typography Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/sailor-blue-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish",
-    "image": "https://images.bewakoof.com/t640/sailor-blue-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish-531919-1659617817-1.jpg",
-    "name": "Sailor Blue Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/dope-in-life-taphy-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
-    "image": "https://images.bewakoof.com/t640/dope-in-life-taphy-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531920-1659617776-1.jpg",
-    "name": "Dope In Life Taphy Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/do-not-disturb-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
-    "image": "https://images.bewakoof.com/t640/do-not-disturb-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531922-1659614201-1.jpg",
-    "name": "Do Not Disturb Typography Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/abstract-faces-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
-    "image": "https://images.bewakoof.com/t640/abstract-faces-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531923-1659613680-1.jpg",
-    "name": "Abstract Faces Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/planet-play-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish",
-    "image": "https://images.bewakoof.com/t640/planet-play-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish-531924-1659617207-1.jpg",
-    "name": "Planet Play Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/dazzling-ocean-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
-    "image": "https://images.bewakoof.com/t640/dazzling-ocean-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531925-1659614264-1.jpg",
-    "name": "Dazzling Ocean Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/kitty-in-pocket-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
-    "image": "https://images.bewakoof.com/t640/kitty-in-pocket-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531928-1659619322-1.jpg",
-    "name": "Kitty In Pocket Printed Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/true-genius-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant",
-    "image": "https://images.bewakoof.com/t640/true-genius-typography-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-531940-1659619824-1.jpg",
-    "name": "True Genius Typography Premium Glass Cover For Samsung Galaxy S20 Plus(Impact Resistant"
-  }
-],
-"Vivo":[
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/blue-raging-tides-printed-premium-glass-cover-for-vivo-v20-pro-unisex",
-    "image": "https://images.bewakoof.com/t320/blue-raging-tides-printed-premium-glass-cover-for-vivo-v20-pro-483139-1648223463-1.jpg",
-    "name": "Raging Tides Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/blue-retro-art-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/blue-retro-art-printed-premium-glass-cover-for-vivo-v20-pro-483116-1648223377-1.jpg",
-    "name": "Retro Art Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/black-tropical-leaves-flowers-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/black-tropical-leaves-flowers-printed-premium-glass-cover-for-vivo-v20-pro-483117-1648223217-1.jpg",
-    "name": "Leaves & Flowers Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/blue-cloudburst-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/blue-cloudburst-printed-premium-glass-cover-for-vivo-v20-pro-483119-1648223602-1.jpg",
-    "name": "Cloudburst Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/beige-elegant-floral-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/beige-elegant-floral-printed-premium-glass-cover-for-vivo-v20-pro-483112-1648223591-1.jpg",
-    "name": "Elegant Floral Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/blue-abstract-tiles-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/blue-abstract-tiles-printed-premium-glass-cover-for-vivo-v20-pro-483113-1648223581-1.jpg",
-    "name": "Abstract Tiles Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/green-marble-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/green-marble-printed-premium-glass-cover-for-vivo-v20-pro-483110-1648223442-1.jpg",
-    "name": "Marble Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/purple-pink-space-doodles-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/purple-pink-space-doodles-printed-premium-glass-cover-for-vivo-v20-pro-483120-1648223409-1.jpg",
-    "name": "Space Doodles Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/brown-blue-bold-stripes-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/brown-blue-bold-stripes-printed-premium-glass-cover-for-vivo-v20-pro-483123-1648223527-1.jpg",
-    "name": "Bold Stripes Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/black-aura-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/black-aura-printed-premium-glass-cover-for-vivo-v20-pro-483127-1648223282-1.jpg",
-    "name": "Aura Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/black-blue-ultramarine-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/black-blue-ultramarine-printed-premium-glass-cover-for-vivo-v20-pro-483128-1648223356-1.jpg",
-    "name": "Ultramarine Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/blue-pink-fluid-printed-premium-glass-cover-for-vivo-v20-pro-unisex",
-    "image": "https://images.bewakoof.com/t320/blue-pink-fluid-printed-premium-glass-cover-for-vivo-v20-pro-483135-1648223612-1.jpg",
-    "name": "Fluid Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/purple-blue-aura-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/purple-blue-aura-printed-premium-glass-cover-for-vivo-v20-pro-483121-1648223495-1.jpg",
-    "name": "Aura Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/jet-black-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/jet-black-premium-glass-cover-for-vivo-v20-pro-483118-1648223292-1.jpg",
-    "name": "Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/black-brave-lion-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/black-brave-lion-printed-premium-glass-cover-for-vivo-v20-pro-483114-1648223250-1.jpg",
-    "name": "Brave Lion Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/purple-black-razor-printed-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/purple-black-razor-printed-premium-glass-cover-for-vivo-v20-pro-483126-1648223559-1.jpg",
-    "name": "Razor Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/maroon-premium-glass-cover-for-vivo-v20-pro",
-    "image": "https://images.bewakoof.com/t320/maroon-premium-glass-cover-for-vivo-v20-pro-483115-1648223538-1.jpg",
-    "name": "Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
-  }
-],
-"Oppo":[
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/dazzling-ocean-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/dazzling-ocean-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527591-1659100795-1.jpg",
-    "name": "Dazzling Ocean Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/abstract-faces-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/abstract-faces-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527593-1659099731-1.jpg",
-    "name": "Abstract Faces Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/striped-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/striped-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527589-1659100357-1.jpg",
-    "name": "Striped Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/struggling-panda-typography-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/struggling-panda-typography-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527583-1659101295-1.jpg",
-    "name": "Struggling Panda Typography Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/moon-wolf-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/moon-wolf-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527580-1659099396-1.jpg",
-    "name": "Moon Wolf Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/lion-the-king-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/lion-the-king-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527616-1659100630-1.jpg",
-    "name": "Lion The King Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/worship-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/worship-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527612-1659099438-1.jpg",
-    "name": "Worship Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/royal-bike-typography-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/royal-bike-typography-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527613-1659099920-1.jpg",
-    "name": "Royal Bike Typography Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/moon-night-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/moon-night-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527596-1659100588-1.jpg",
-    "name": "Moon Night Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/red-moon-tiger-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/red-moon-tiger-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527600-1659100380-1.jpg",
-    "name": "Red Moon Tiger Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/king-life-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/king-life-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527605-1659099396-1.jpg",
-    "name": "King Life Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/retro-gorgeous-flower-printed-premium-glass-cover-for-oppo-reno7-5g",
-    "image": "https://images.bewakoof.com/t640/retro-gorgeous-flower-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527604-1659099710-1.jpg",
-    "name": "Retro Gorgeous Flower Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight",
-    "image": "https://images.bewakoof.com/t320/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-485006-1648618944-1.jpg",
-    "name": "Aura Printed Premium Glass Cover for Oppo Reno 7 5G (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-unisex",
-    "image": "https://images.bewakoof.com/t320/aura-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-485015-1648618775-1.jpg",
-    "name": "Aura Printed Premium Glass Cover for Oppo Reno 7 5G (Shock Proof, Lightweight)"
-  },
-  {
-    "col-sm-4 href": "https://www.bewakoof.com/p/retro-art-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight",
-    "image": "https://images.bewakoof.com/t320/retro-art-printed-premium-glass-cover-for-oppo-reno-7-5g-shock-proof-lightweight-485002-1648618996-1.jpg",
-    "name": "Retro Art Printed Premium Glass Cover for Oppo Reno 7 5G (Shock Proof, Lightweight)"
-  }
-]
 }

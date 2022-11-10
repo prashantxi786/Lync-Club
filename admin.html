@@ -5,8 +5,86 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        #container{
+           
+            border: 1px solid red;
+            width: 80%;
+            height: 400px;
+            display: flex;
+            justify-content: space-between;
+            margin: auto;
+            margin-top: 100px;
+        }
+        #container div{
+            margin: 10px;
+            text-align: center;
+
+        }
+        #container div input{
+            margin: 10px;
+            width: 250px;
+            height: 25px;
+        }
+        #container div button{
+            width: 260px;
+            height: 28px;
+            border-radius: 5px;
+            border-color: white;
+        }
+    </style>
 </head>
 <body>
+    <div id="container">
+        <div id="men">
+            <h3>Mens Wear</h3>
+            <!-- <input type="text" placeholder="Product Name" id="product_name">
+            <br> -->
+            <input type="number" placeholder="Product Price" id="men_price">
+            <br>
+            <input type="text" placeholder="Description" id="men_des">
+            <br>
+            <input type="text" placeholder="Image Url" id="men_image_url">
+            <br>
+            <input type="text" placeholder="Brand" id="men_brand">
+            <br>
+            <button id="mens_btn">Add Product</button>
+    
+        </div>
+        <!-- //women -->
+        <div id="women">
+            <h3>women Wear</h3>
+            <!-- <input type="text" placeholder="Product Name" id="product_name">
+            <br> -->
+            <input type="number" placeholder="Product Price" id="product_price">
+            <br>
+            <input type="text" placeholder="Description" id="des">
+            <br>
+            <input type="text" placeholder="Image Url" id="image_url">
+            <br>
+            <input type="text" placeholder="Brand" id="brand">
+            <br>
+            <button id="womens_btn">Add Product</button>
+    
+        </div>
+        
+        <!-- mobile -->
+        <div id="mobile">
+            <h3>Mobile</h3>
+            <!-- <input type="text" placeholder="Product Name" id="product_name">
+            <br> -->
+            <input type="number" placeholder="Product Price" id="product_price">
+            <br>
+            <input type="text" placeholder="Description" id="des">
+            <br>
+            <input type="text" placeholder="Image Url" id="image_url">
+            <br>
+            <input type="text" placeholder="Brand" id="brand">
+            <br>
+            <button id="mobile_btn">Add Product</button>
+    
+        </div>
+    </div>
     
 </body>
 </html>
