@@ -161,13 +161,7 @@ const navbar = () => {
                 <a href="">Realme 9 Pro 5G</a>
                 <a href="">Vivo Y73</a>
             </div>
-        </div>
-
-
-
-
-
-        
+        </div>  
     </div>
 </div>
 <div id="sldiv">
@@ -180,7 +174,7 @@ const navbar = () => {
    </div>
     <div id="logindiv">
         <div id="seperator"></div>
-        <a id="login" href="">Login</a>
+        <a id="login" href="login.html">Login</a>
         <i class="fa-regular fa-heart"></i>
         <img id="cart" src="https://i.postimg.cc/MZQbCVdV/5623037171578981506-20.png" alt="">
         <img id="countryicon" src="https://images.bewakoof.com/web/india-flag-round-1639566913.png" alt="">

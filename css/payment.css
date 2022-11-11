@@ -22,6 +22,7 @@
 #pmethod {
   display: flex;
   border: 1px solid gray;
+  border-radius: 5px;
 }
 #pmethod > div:nth-child(1) {
   width: 35%;
@@ -47,6 +48,7 @@
   width: 40px;
   height: 16px;
   margin: 0px 10px;
+  margin-bottom: 28px;
 }
 #cdnum {
   width: 92%;
@@ -89,6 +91,7 @@
   /* height: 450px; */
   /* border: 1px solid blue; */
   padding: 0px 15px;
+  margin-top: 30px;
 }
 table {
   width: 100%;
@@ -121,4 +124,9 @@ table {
 }
 #payy:hover {
   cursor: pointer;
+}
+#subtol,
+#subtotal {
+  /* text-decoration: blanchedalmond; */
+  font: 800;
 }

@@ -13,7 +13,6 @@ img {
 .input {
   text-align: center;
   width: 100%;
-  border: 1px solid red;
 }
 h3 {
   color: rgb(0, 0, 0);
@@ -185,4 +184,30 @@ button {
   width: 18px;
   height: 17.6px;
   font-size: 18px;
+}
+
+#signup {
+  width: 50%;
+  padding: 16px 0px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  background-color: #a5a5a5;
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}
+
+* {
+  text-decoration: none;
+}
+
+#signup:hover {
+  background-color: rgb(3, 79, 134);
+  color: black;
 }

@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="index.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
         #container{
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
            
-            border: 1px solid red;
+            border: 0px solid red;
             width: 80%;
             height: 400px;
             display: flex;
@@ -17,6 +19,9 @@
             margin-top: 100px;
         }
         #container div{
+            box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+            width:30%;
+            border: 0px solid black;
             margin: 10px;
             text-align: center;
 
@@ -32,9 +37,28 @@
             border-radius: 5px;
             border-color: white;
         }
+        #mobile_brand{
+            width: 250px;
+            height: 30px;
+        }
+        #mens_btn:hover{
+            cursor: pointer;
+            background-color: aliceblue;
+        }
+        #women_btn:hover{
+            cursor: pointer;
+            background-color: aliceblue;
+        }
+        #mobile_btn:hover{
+            cursor: pointer;
+            background-color: aliceblue;
+        }
+    
     </style>
 </head>
 <body>
+    <div id="navbar">
+    </div>
     <div id="container">
         <div id="men">
             <h3>Mens Wear</h3>
@@ -56,15 +80,15 @@
             <h3>women Wear</h3>
             <!-- <input type="text" placeholder="Product Name" id="product_name">
             <br> -->
-            <input type="number" placeholder="Product Price" id="product_price">
+            <input type="number" placeholder="Product Price" id="women_price">
             <br>
-            <input type="text" placeholder="Description" id="des">
+            <input type="text" placeholder="Description" id="women_des">
             <br>
-            <input type="text" placeholder="Image Url" id="image_url">
+            <input type="text" placeholder="Image Url" id="women_image_url">
             <br>
-            <input type="text" placeholder="Brand" id="brand">
+            <input type="text" placeholder="Brand" id="women_brand">
             <br>
-            <button id="womens_btn">Add Product</button>
+            <button id="women_btn">Add Product</button>
     
         </div>
         
@@ -73,19 +97,29 @@
             <h3>Mobile</h3>
             <!-- <input type="text" placeholder="Product Name" id="product_name">
             <br> -->
-            <input type="number" placeholder="Product Price" id="product_price">
+            <input type="number" placeholder="Product Price" id="mobile_price">
             <br>
-            <input type="text" placeholder="Description" id="des">
+            <input type="text" placeholder="Description" id="mobile_des">
             <br>
-            <input type="text" placeholder="Image Url" id="image_url">
+            <input type="text" placeholder="Image Url" id="mobile_image_url">
             <br>
-            <input type="text" placeholder="Brand" id="brand">
+            <select name="Brand" type="select" placeholder="Brand" id="mobile_brand">
+                <option value="apple">Apple</option>
+                <option value="xiaomi">Xioami</option>
+                <option value="samsung">Samsung</option>
+                <option value="vivo">Vivo</option>
+                <option value="oppo">Oppo</option>
+                <option value="oneplus">Oneplus</option>
+                </select>
+            <br>
             <br>
             <button id="mobile_btn">Add Product</button>
     
         </div>
     </div>
+    <div id="footer">
+    </div>
     
 </body>
 </html>
-<script src="admin.js"></script>
+<script type="module" src="admin.js"></script>

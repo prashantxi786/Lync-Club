@@ -1,8 +1,8 @@
-.login {
+.signup {
   display: flex;
 }
-.login h1,
-.login h2 {
+.signup h1,
+.signup h2 {
   padding-left: 30px;
   color: black;
 }
@@ -14,8 +14,9 @@ img {
   text-align: center;
   width: 100%;
 }
-h4 {
-  color: darkgray;
+h3 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
 }
 .input input {
   width: 50%;
@@ -28,7 +29,7 @@ h4 {
   border-radius: 5px;
 }
 #continue {
-  background-color: #42a2a2;
+  background-color: #a5a5a5;
   color: white;
 }
 button {
@@ -44,38 +45,6 @@ button {
 }
 [type="submit"] {
   cursor: pointer;
-}
-#or-line {
-  display: flex;
-  width: 55%;
-  margin: auto;
-}
-.center-line {
-  border-bottom: 2px solid darkgray;
-  width: 50%;
-  margin: auto;
-}
-#or {
-  margin: 20px 0;
-  width: 10%;
-}
-#upper-buttons button {
-  cursor: pointer;
-}
-#lower-buttons button {
-  width: 25%;
-}
-p {
-  width: 50%;
-  margin: auto;
-  font-size: 14px;
-  text-align: left;
-  position: relative;
-  bottom: -20px;
-  color: darkgray;
-}
-p a {
-  color: #42a2a2;
 }
 
 /* here */
@@ -217,7 +186,7 @@ p a {
   font-size: 18px;
 }
 
-#loginw {
+#signup {
   width: 50%;
   padding: 16px 0px;
   text-align: center;
@@ -226,16 +195,7 @@ p a {
   margin-bottom: 10px;
   border: 1px solid gray;
   border-radius: 5px;
-  background-color: #42a2a2;
-  color: white;
-}
-
-#loginw:hover {
-  background-color: rgb(3, 79, 134);
-  color: black;
-}
-#upper-buttons button {
-  background-color: gray;
+  background-color: #a5a5a5;
   color: white;
 }
 
@@ -246,6 +206,7 @@ button {
 * {
   text-decoration: none;
 }
-#xyz:hover {
-  color: #42a2a2;
+#signup:hover {
+  background-color: rgb(3, 79, 134);
+  color: black;
 }
