@@ -9,6 +9,7 @@ login.addEventListener("click", loginid);
 async function loginid() {
   let user = document.getElementById("user").value;
   let pass = document.getElementById("pass").value;
+
   let obj = {
     username: user,
     password: pass,

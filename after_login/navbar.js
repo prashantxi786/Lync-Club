@@ -180,7 +180,7 @@ const navbar = () => {
    </div>
     <div id="logindiv">
         <div id="seperator"></div>
-        <a id="login" href="login.html" style="color:blue">Welcome</a>
+        <a id="login" href="" style="color:blue">Welcome</a>
         <a href=""><i class="fa-regular fa-heart"></i></a>
         <a href=""><img id="cart" src="https://i.postimg.cc/MZQbCVdV/5623037171578981506-20.png" alt=""></a>
         <img id="countryicon" src="https://images.bewakoof.com/web/india-flag-round-1639566913.png" alt="">
