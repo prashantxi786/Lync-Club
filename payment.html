@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/payment.css" />
+  </head>
+  <body>
+    <div id="navbar">
+      <img src="https://i.postimg.cc/Kjz5HCk7/Be-Funky-photo.png" alt="" />
+    </div>
+    <hr />
+    <div id="main">
+      <div id="lft">
+        <h3 id="mssg">Choose your payment method</h3>
+        <div id="pmethod">
+          <div id="lftbtn">
+            <button id="Deb">Debit/Credit Card</button>
+            <button id="Wal">Wallet</button>
+            <button id="UPI">UPI</button>
+            <button id="Net">Net banking</button>
+            <button id="Cas">Cash On Delivery</button>
+          </div>
+          <div id="rgtpay">
+            <img
+              src="https://images.bewakoof.com/web/ic-visa-gray-payment-v1.jpg"
+              alt=""
+            />
+            <img
+              src="https://images.bewakoof.com/web/ic-master-card-payment-v1.jpg"
+              alt=""
+            />
+            <img
+              src="https://images.bewakoof.com/web/ic-rupay-payment-v1.jpg"
+              alt=""
+            />
+            <img
+              src="https://images.bewakoof.com/web/ic-american-express-payment-v1.jpg"
+              alt=""
+            />
+            <input type="number" id="cdnum" placeholder="Card Number" />
+            <!-- <hr /> -->
+            <input type="number" id="mmyy" placeholder="Valid Through" />
+            <input type="number" id="cvv" placeholder="CVV" />
+            <input type="text" id="pname" placeholder="Name On Card" />
+            <!-- <h5>Save card details for later</h5> -->
+            <p>
+              This transaction you make is totally secure. We don't save your
+              CVV number.
+            </p>
+            <button id="payy">PAY ₹  <span id="subtol">00</span></button>
+          </div>
+        </div>
+      </div>
+      <div id="rgt">
+        <p>Delivering order to <b>MASI SCHOOL</b></p>
+        <hr />
+        <h3>Price Summary</h3>
+        <table>
+          <tbody>
+            <tr>
+              <td>Total MRP (Incl. of taxes)</td>
+              <td class="final" id="totalmrp">000</td>
+            </tr>
+            <tr>
+              <td>Shipping Charges</td>
+              <td class="final" style="color: #489118">FREE</td>
+            </tr>
+            <tr>
+              <td>Discount</td>
+              <td class="final" id="bagdisc">0</td>
+            </tr>
+          </tbody>
+        </table>
+        <hr />
+        <table>
+          <tr>
+            <td><b>Final amount</b></td>
+            <b><td >₹ <spanclass="final" id="subtotal">0</spanclass=></td></b>
+          </tr>
+        </table>
+        <hr />
+        <h4><b>You are paying for these items</b></h4>
+        <div id="items"></div>
+      </div>
+    </div>
+  </body>
+</html>
+<script src="./scripts/payment.js"></script>

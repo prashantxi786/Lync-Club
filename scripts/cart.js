@@ -120,3 +120,14 @@ cuppn.addEventListener("click", () => {
     alert("Enter Valid Coupan code");
   }
 });
+
+let floww = document.getElementById("floww");
+floww.innerText = "Home/Covers/Detail/Cart";
+floww.addEventListener("click", () => {
+  window.location.href = "mobile.html";
+});
+
+let payment = document.getElementById("payment");
+payment.addEventListener("click", () => {
+  window.location.href = "payment.html";
+});
