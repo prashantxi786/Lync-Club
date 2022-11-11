@@ -2,7 +2,8 @@
   "Apple": [
     {
       "image": "https://images.bewakoof.com/t640/jet-black-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547845-1665564674-1.jpg",
-      "name": "Jet Black Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)"
+      "name": "Jet Black Premium Glass Cover for Apple iPhone 14 (Shockproof, Light Weight)",
+      "id": "01"
     },
     {
       "image": "https://images.bewakoof.com/t640/black-aura-printed-premium-glass-cover-for-apple-iphone-14-shockproof-light-weight-547842-1665564843-1.jpg",
@@ -161,7 +162,8 @@
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/dragons-of-hod-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
       "image": "https://images.bewakoof.com/t640/dragons-of-hod-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-549957-1666261573-1.jpg",
-      "name": "Dragons Of Hod Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max"
+      "name": "Dragons Of Hod Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max",
+      "id": "01"
     },
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/blinding-lights-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max",
@@ -218,7 +220,8 @@
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/qrioh-colorful-aura-glass-case-for-samsung-galaxy-s20-plus",
       "image": "https://images.bewakoof.com/t320/qrioh-colorful-aura-glass-case-for-samsung-galaxy-s20-plus-407674-1632330071-1.jpg",
-      "name": "Colorful Aura Glass Case For Samsung Galaxy S20 Plus"
+      "name": "Colorful Aura Glass Case For Samsung Galaxy S20 Plus",
+      "id": "01"
     },
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/butterfly-printed-premium-glass-cover-for-samsung-galaxy-s20-plus-impact-resistant-matte-finish",
@@ -275,7 +278,8 @@
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/blue-raging-tides-printed-premium-glass-cover-for-vivo-v20-pro-unisex",
       "image": "https://images.bewakoof.com/t320/blue-raging-tides-printed-premium-glass-cover-for-vivo-v20-pro-483139-1648223463-1.jpg",
-      "name": "Raging Tides Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)"
+      "name": "Raging Tides Printed Premium Glass Cover for Vivo V20 Pro (Shock Proof, Lightweight)",
+      "id": "01"
     },
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/blue-retro-art-printed-premium-glass-cover-for-vivo-v20-pro",
@@ -362,7 +366,8 @@
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/dazzling-ocean-printed-premium-glass-cover-for-oppo-reno7-5g",
       "image": "https://images.bewakoof.com/t640/dazzling-ocean-printed-premium-glass-cover-for-oppo-reno7-5g-impact-resistant-matte-finish-527591-1659100795-1.jpg",
-      "name": "Dazzling Ocean Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)"
+      "name": "Dazzling Ocean Printed Premium Glass Cover For Oppo Reno7 5G (Impact Resistant, Matte Finish)",
+      "id": "01"
     },
     {
       "col-sm-4 href": "https://www.bewakoof.com/p/abstract-faces-printed-premium-glass-cover-for-oppo-reno7-5g",
@@ -580,7 +585,8 @@
       "price": "₹549",
       "price_url": "https://www.bewakoof.com/custom-design?pid=540833",
       "tribe": "₹509For TriBe Members",
-      "tribe_url": "https://www.bewakoof.com/custom-design?pid=540833"
+      "tribe_url": "https://www.bewakoof.com/custom-design?pid=540833",
+      "id": "01"
     },
     {
       "image": "https://images.bewakoof.com/t640/women-s-blue-inspire-graphic-printed-boyfriend-t-shirt-553309-1667891893-1.jpg",
@@ -703,146 +709,165 @@
       "tribe_url": "https://www.bewakoof.com/p/womens-pink-opinion-about-me-3-4-sleeve-t-shirts"
     }
   ],
-  "posts": [
+  "mens": [
     {
-      "brand": "masai",
-      "image": "asdf",
-      "price": "1200",
-      "description": "shirt",
-      "id": 1
+      "image": "https://images.bewakoof.com/t640/men-s-black-what-the-duck-graphic-printed-oversized-t-shirt-553306-1667891652-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black What The Duck Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "tribe": "₹559For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
+      "id": "01"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-inspire-graphic-printed-oversized-t-shirt-553301-1667891608-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black Inspire Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt-552896-1667807394-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black Growing Up Is Overrated Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-purrnisher-graphic-printed-oversized-t-shirt-552898-1667807326-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "description": "Men's Black The Purrnisher Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
+      "tribe": "₹559For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-what-the-duck-graphic-printed-oversized-t-shirt-553308-1667891931-1.jpg",
+      "url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "description": "Men's White What The Duck Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
+      "tribe": "₹559For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552846-1667574993-1.jpg",
+      "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "description": "Men's Green Travelling Cat Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/it-s-a-deal-half-sleeve-t-shirt-552837-1667574877-1.jpg",
+      "url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "price": "₹329",
+      "price_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "description": "Men's White It's a Deal Graphic Printed T-shirt",
+      "description_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
+      "tribe": "₹309For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-dope-bear-graphic-printed-oversized-t-shirt-547532-1667563188-1.jpg",
+      "url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "price": "₹537",
+      "price_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "description": "Men's Blue Dope Bear Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
+      "tribe": "₹489For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/customizable-men-s-black-full-sleeves-t-shirt-500171-1655815078-1.jpg",
+      "url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "price": "₹599",
+      "price_url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "description": "Customizable Men's Black Full Sleeves T-Shirt",
+      "description_url": "https://www.bewakoof.com/custom-design?pid=500171",
+      "tribe": "₹549For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/custom-design?pid=500171"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552860-1667575317-1.jpg",
+      "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "price": "₹449",
+      "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "description": "Men's White Travelling Cat Graphic Printed Oversized T-shirt",
+      "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
+      "tribe": "₹419For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/peace-out-astronaut-half-sleeve-t-shirt-black-302574-1655749064-1.jpg",
+      "url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "brand": "Bewakoof",
+      "brand_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "price": "₹358",
+      "price_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "description": "Peace Out Astronaut Half Sleeve T-Shirt Black",
+      "description_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
+      "tribe": "₹329For TriBe Members",
+      "tribe_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black"
     }
   ],
-  "mens":[{
-    "image": "https://images.bewakoof.com/t640/men-s-black-what-the-duck-graphic-printed-oversized-t-shirt-553306-1667891652-1.jpg",
-    "url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
-    "price": "₹599",
-    "price_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
-    "description": "Men's Black What The Duck Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt",
-    "tribe": "₹559For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/mens-black-what-the-duck-graphic-printed-oversized-t-shirt"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/men-s-black-inspire-graphic-printed-oversized-t-shirt-553301-1667891608-1.jpg",
-    "url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
-    "price": "₹449",
-    "price_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
-    "description": "Men's Black Inspire Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt",
-    "tribe": "₹419For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/mens-black-inspire-graphic-printed-oversized-t-shirt"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/men-s-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt-552896-1667807394-1.jpg",
-    "url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
-    "price": "₹449",
-    "price_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
-    "description": "Men's Black Growing Up Is Overrated Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt",
-    "tribe": "₹419For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/mens-black-growing-up-is-overrated-graphic-printed-oversized-t-shirt"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/men-s-black-the-purrnisher-graphic-printed-oversized-t-shirt-552898-1667807326-1.jpg",
-    "url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
-    "price": "₹599",
-    "price_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
-    "description": "Men's Black The Purrnisher Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt",
-    "tribe": "₹559For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/mens-black-the-purrnisher-graphic-printed-oversized-t-shirt"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/men-s-white-what-the-duck-graphic-printed-oversized-t-shirt-553308-1667891931-1.jpg",
-    "url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
-    "price": "₹599",
-    "price_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
-    "description": "Men's White What The Duck Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt",
-    "tribe": "₹559For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/mens-white-what-the-duck-graphic-printed-oversized-t-shirt"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552846-1667574993-1.jpg",
-    "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
-    "price": "₹449",
-    "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
-    "description": "Men's Green Travelling Cat Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men",
-    "tribe": "₹419For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/it-s-a-deal-half-sleeve-t-shirt-552837-1667574877-1.jpg",
-    "url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
-    "price": "₹329",
-    "price_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
-    "description": "Men's White It's a Deal Graphic Printed T-shirt",
-    "description_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt",
-    "tribe": "₹309For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/its-a-deal-half-sleeve-t-shirt"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/men-s-blue-dope-bear-graphic-printed-oversized-t-shirt-547532-1667563188-1.jpg",
-    "url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
-    "price": "₹537",
-    "price_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
-    "description": "Men's Blue Dope Bear Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men",
-    "tribe": "₹489For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/dope-bear-oversized-fit-t-shirt-men"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/customizable-men-s-black-full-sleeves-t-shirt-500171-1655815078-1.jpg",
-    "url": "https://www.bewakoof.com/custom-design?pid=500171",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/custom-design?pid=500171",
-    "price": "₹599",
-    "price_url": "https://www.bewakoof.com/custom-design?pid=500171",
-    "description": "Customizable Men's Black Full Sleeves T-Shirt",
-    "description_url": "https://www.bewakoof.com/custom-design?pid=500171",
-    "tribe": "₹549For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/custom-design?pid=500171"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/travelling-cat-oversized-t-shirt-552860-1667575317-1.jpg",
-    "url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
-    "price": "₹449",
-    "price_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
-    "description": "Men's White Travelling Cat Graphic Printed Oversized T-shirt",
-    "description_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white",
-    "tribe": "₹419For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/travelling-cat-oversized-t-shirt-men-white"
-  },
-  {
-    "image": "https://images.bewakoof.com/t640/peace-out-astronaut-half-sleeve-t-shirt-black-302574-1655749064-1.jpg",
-    "url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
-    "brand": "Bewakoof",
-    "brand_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
-    "price": "₹358",
-    "price_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
-    "description": "Peace Out Astronaut Half Sleeve T-Shirt Black",
-    "description_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black",
-    "tribe": "₹329For TriBe Members",
-    "tribe_url": "https://www.bewakoof.com/p/peace-out-astronaut-half-sleeve-t-shirt-black"
-  }]
-
+  "singup": [
+    {
+      "name": "shoeb khan",
+      "mail": "shoeb@masai.com",
+      "username": "shoeb",
+      "pass": "123456",
+      "mob": "123456789",
+      "id": 1
+    },
+    {
+      "name": "",
+      "mail": "",
+      "username": "",
+      "pass": "",
+      "mob": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "mail": "",
+      "username": "",
+      "pass": "",
+      "mob": "",
+      "id": 3
+    }
+  ]
 }
