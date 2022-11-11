@@ -232,6 +232,10 @@ p a {
   color: white;
 }
 
+#loginw:hover {
+  background-color: rgb(3, 79, 134);
+  color: black;
+}
 #upper-buttons button {
   background-color: gray;
   color: white;
@@ -239,4 +243,11 @@ p a {
 
 button {
   cursor: pointer;
+}
+
+* {
+  text-decoration: none;
+}
+#xyz:hover {
+  color: #42a2a2;
 }

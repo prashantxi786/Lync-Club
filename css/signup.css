@@ -202,3 +202,12 @@ button {
 button {
   cursor: pointer;
 }
+
+* {
+  text-decoration: none;
+}
+
+#signup:hover {
+  background-color: rgb(3, 79, 134);
+  color: black;
+}
