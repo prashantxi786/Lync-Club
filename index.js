@@ -1,6 +1,11 @@
-import {navbar,footer} from "./component/navbar.js"
+import { navbar, footer } from "./component/navbar.js";
 
-let navbar_div=document.getElementById("navbar");
-navbar_div.innerHTML=navbar();
-let footer_div=document.getElementById("footer");
-footer_div.innerHTML=footer();
+let navbar_div = document.getElementById("navbar");
+navbar_div.innerHTML = navbar();
+let footer_div = document.getElementById("footer");
+footer_div.innerHTML = footer();
+
+let mc = document.getElementById("mc");
+mc.addEventListener("click", () => {
+  window.location.href = "";
+});

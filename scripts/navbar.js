@@ -161,13 +161,7 @@ const navbar = () => {
                 <a href="">Realme 9 Pro 5G</a>
                 <a href="">Vivo Y73</a>
             </div>
-        </div>
-
-
-
-
-
-        
+        </div>  
     </div>
 </div>
 <div id="sldiv">
