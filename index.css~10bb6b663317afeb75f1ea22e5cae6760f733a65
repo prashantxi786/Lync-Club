@@ -1,0 +1,391 @@
+body{
+    margin:0px;
+    font-family: montserrat,sans-serif;
+    min-width:100vh;
+    display:grid;
+    place-items: center;
+
+}
+#topbar{
+    width: 100%;
+    height:26.8px;
+    background-color:#eeeeee;
+}
+#topbardiv,#leftofbar,#rightofbar{
+    display: flex;
+    align-items: center;
+}
+#leftofbar{
+    width:329.79px;
+    height:10.8;
+    display: flex;
+    justify-content: space-evenly
+}
+#topbardiv{
+    width: 1170px;
+    height:24.8px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+}
+ #topbardiv p{
+    font-size:10px;
+    color:#000000CC;
+    margin:8px
+}
+#offers{
+    width: 30.59px;
+    height:12px
+}
+#fanbook{
+    width:47.34px;
+    height:12px;
+}
+#dapp{
+    width:91.54px;
+    height:12px;
+}
+#tm{
+    width: 96.33px;
+    height:12px;
+}
+#cu{
+    width: 55.85px;
+    height:12px;
+}
+#to{
+    width: 62.39px;
+    height:12px;
+}
+/* navbar */
+#navbar{
+    border-bottom: 1px solid rgba(0,0,0,.2);
+    width: 100%;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    /* position: sticky;
+    top: 0; */
+    background-color:white
+}
+#logo{
+    width:147px;
+    height: 52px;
+}
+#img{
+    width:195px;
+    height: 52px;
+    display: flex;
+    justify-content:center;
+}
+#mwm{
+    width:487.5px;
+    height:52px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.men{
+    position: relative;
+    display: inline-block;
+    float: right;
+    
+}
+.dropdown{
+    display:none;
+    position: absolute;
+    margin-top:16px;
+    background-color:white;
+    min-width: 160px;
+    width: 500px;
+    height: 300px;
+    z-index:1;
+    border: 1px solid rgba(0,0,0,.2);
+    
+
+}
+
+.dropdown a{
+    text-decoration: none;
+    display: block;
+    color:  rgba(11, 6, 6, 0.589);
+    
+    font-size:12px;
+    letter-spacing: 1px;
+    padding:0.5px
+
+}
+.dropdown a:hover{
+    background-color:grey;
+    color: #ffffff;
+    border-radius: 5px;
+    padding:2px;
+    font-size: 15px;
+}
+.men:hover .dropdown{
+    display: block;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    padding:15px;
+    
+}
+#men, #women, #mc{
+    text-decoration: none;
+    color: black;
+}
+#sldiv{
+    width:487.5px;
+    height:52px;
+    display: flex;
+}
+#mwmdiv{
+    width: 287.93px;
+    height:52px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#mwmdiv>a{
+    text-decoration: none;
+    color: black;
+}
+#inputdiv{
+    width:285.29px;
+    height:52px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 0px 9px;
+}
+#searchbar{
+    width: 270.28px;
+    height:40px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: #ebeaeb;
+    border-radius:5px;
+
+}
+#logindiv{
+    display: flex;
+    width: 184.21px;
+    height: 52px;
+    justify-content: space-evenly;
+    align-items: center
+}
+#login{
+    text-decoration: none;
+    color: black;
+}
+#seperator{
+    border-left: solid 1px ;
+    width: 1px;
+    height: 20px;
+}
+#cart{
+    width: 20px;
+    height: 20px;
+}
+#countryicon{
+    width: 30px;
+    height: 30px;
+}
+#inputbar{
+    width: 81%;
+    font-size:11px;
+    background-color: #ebeaeb;
+    line-height: 1.5px;
+    border:none;
+}
+#searchicon{
+    width: 18px;
+    height: 17.6px;
+    font-size:18px
+}
+/* afternavbarimg */
+#afternavbarimg{
+    margin-top:10px;
+    width: 100%;
+}
+/* slider */
+.slider{
+    height: 550px;
+    position:relative;
+    width:100%;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+.slide-track{
+    display:flex;
+    width: calc(600px*8);
+    animation:scroll 40s linear infinite;
+}
+
+.slide-track:hover{
+    animation-play-state: paused;
+}
+@keyframes scroll {
+    0%{
+        transform:translateX(0);
+    }
+    100%{
+        transform:translateX(calc(-600px*4))
+    }
+}
+.slide{
+    width:100%;
+    display: flex;
+    align-items: center;
+    padding:0px;
+    perspective: 100px;
+}
+.slide-track img{
+    width: 100%;
+}
+.slide-track img:hover{
+    transform:translateZ(5px);
+}
+#aftersliderimg{
+    padding:10px;
+
+}
+/* row of images */
+#rowofimg1{
+    display: flex;
+    /* width:70% */
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width:120px;
+    font-size:12px;
+    font-weight: bold;
+}
+.headtext{
+    font-family: montserrat, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 20px;
+    margin: 10px;
+}
+#rowofimg2{
+    display: flex;
+    width: 100%;
+}
+#rowofimg2 img{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.banner{
+    margin:8px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+#rowofimg3{
+    display: flex;
+    width: 100%;
+}
+#rowofimg3 img{
+    width:250px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+#rowofimg3 img:hover{
+    border: 2px solid rgb(140, 140, 140);
+}
+.card3{
+    padding:13px;
+}
+.prices{
+    display: flex;
+    gap:3px;
+    align-items: center
+}
+.sale{
+    font-weight: 700;
+}
+.lp{
+    font-size:11px;
+    text-decoration: line-through;
+    color:grey;
+    font-weight:700;
+}
+/* footer */
+#footer{
+    width:100%;
+    height:3100px;
+    background-color:black;
+    color:white;
+    font-size:12px;
+}
+.yellowheads{
+    color:rgb(255, 167, 2);
+    letter-spacing:0.5px;
+    font-weight:600;
+    margin-bottom:40px;
+}
+.whiteheads{
+    font-size:18px;
+    font-weight:600;
+    letter-spacing:0.5px;
+}
+.blueheads{
+    font-size:18px;
+    color: #51cccc!important;}
+#footerdiv1{
+    display: flex;
+    gap:100px;
+    width:1000px;
+    margin:auto;
+}
+#footerdiv2{
+    display: flex;
+    gap:100px;
+    width:1000px;
+    margin:auto;   
+}
+#footerdiv3{
+    display: flex;
+    gap:100px;
+    width:1000px;
+    margin:auto;
+    font-size: 13px;
+    font-weight:600   
+}
+#footerdiv4{
+    width:1000px;
+    margin:auto;
+    font-size:15px;
+}
+.footerheadings{
+    font-size:20px;
+    letter-spacing:1px;
+    font-weight:600
+}
+#email{
+    color:grey;
+    font-size: 12px;
+    background-color: black;
+    border: none;
+    border-bottom:1px solid rgb(221, 194, 14);
+    border-right:1px solid rgb(221, 194, 14);
+
+    width:100px;
+    height:30px;
+}
+#subscribebtn{
+    width:100px;
+    height:33px;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    background-color:rgb(221, 194, 14);
+    border:none;
+}
+#sbtndiv{
+    display:flex;
+}
+
+

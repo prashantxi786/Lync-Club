@@ -181,8 +181,8 @@ const navbar = () => {
     <div id="logindiv">
         <div id="seperator"></div>
         <a id="login" href="">Login</a>
-        <i class="fa-regular fa-heart"></i>
-        <img id="cart" src="https://i.postimg.cc/MZQbCVdV/5623037171578981506-20.png" alt="">
+        <a href=""><i class="fa-regular fa-heart"></i></a>
+        <a href=""><img id="cart" src="https://i.postimg.cc/MZQbCVdV/5623037171578981506-20.png" alt=""></a>
         <img id="countryicon" src="https://images.bewakoof.com/web/india-flag-round-1639566913.png" alt="">
     </div>
 </div>`;
