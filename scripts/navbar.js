@@ -131,7 +131,7 @@ const navbar = () => {
             </div>
         </div>
         <div class="men">
-            <a id="mc" href="">MOBILE COVERS</a>
+            <a id="mc" href="./mobile.html">MOBILE COVERS</a>
             <div class="dropdown" style="padding:0px 0px 0px 6px;letter-spacing:0px;">
                 <a href="">Popular</a>
                 <a href=""></a>
