@@ -1,0 +1,124 @@
+#navbar {
+  width: 80%;
+  margin: auto;
+}
+#navbar > img {
+  height: 65px;
+}
+
+#main {
+  /* border: 1px solid red; */
+  width: 80%;
+  margin: 15px auto;
+  display: flex;
+  height: 500px;
+}
+#lft {
+  width: 70%;
+  /* height: 500px; */
+  /* border: 1px solid green; */
+  padding: 15px;
+}
+#pmethod {
+  display: flex;
+  border: 1px solid gray;
+}
+#pmethod > div:nth-child(1) {
+  width: 35%;
+}
+#pmethod > div:nth-child(2) {
+  width: 65%;
+  padding: 10px 10px 0px 10px;
+}
+#pmethod > div {
+  height: 420px;
+}
+#lftbtn > button {
+  width: 100%;
+  height: 86px;
+  text-align: left;
+  padding-left: 20px;
+  /* border: 1px solid black; */
+}
+#lftbtn > button:hover {
+  cursor: pointer;
+}
+#rgtpay > img {
+  width: 40px;
+  height: 16px;
+  margin: 0px 10px;
+}
+#cdnum {
+  width: 92%;
+  height: 50px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  border: 0px;
+  border-bottom: 1px solid rgb(160, 160, 160);
+}
+#mmyy {
+  width: 50%;
+  height: 50px;
+  margin-bottom: 15px;
+  border: 0px;
+  border-bottom: 1px solid gray;
+}
+#cvv {
+  width: 25%;
+  height: 50px;
+  margin-bottom: 15px;
+  border: 0px;
+  margin-left: 75px;
+  border-bottom: 1px solid gray;
+}
+#pname {
+  width: 92%;
+  height: 50px;
+  margin-bottom: 15px;
+  border: 0px;
+  border-bottom: 1px solid gray;
+}
+#payy {
+  width: 100%;
+  margin: auto;
+  height: 60px;
+  margin-top: 10px;
+}
+#rgt {
+  width: 30%;
+  /* height: 450px; */
+  /* border: 1px solid blue; */
+  padding: 0px 15px;
+}
+table {
+  width: 100%;
+}
+.final {
+  margin-left: 1000px;
+}
+#items > div {
+  width: 100%;
+  height: 100%;
+}
+#items > div > div:nth-child(1) {
+  width: 50%;
+  height: 100%;
+}
+#items > div img {
+  width: 100%;
+  height: 40%;
+}
+#Deb {
+  background-color: white;
+  border: 1px solid gray;
+  border-right: 0px;
+  border-top: 0px;
+}
+#payy {
+  border-radius: 10px;
+  border: 0px;
+  color: white;
+}
+#payy:hover {
+  cursor: pointer;
+}

@@ -175,3 +175,10 @@
   cursor: pointer;
   text-decoration: underline;
 }
+#floww {
+  margin-left: 150px;
+  color: gray;
+}
+#floww:hover {
+  cursor: pointer;
+}
