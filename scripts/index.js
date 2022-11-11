@@ -1,4 +1,4 @@
-import {navbar,footer} from "./component/navbar.js"
+import {navbar,footer} from "./navbar.js";
 
 let navbar_div=document.getElementById("navbar");
 navbar_div.innerHTML=navbar();

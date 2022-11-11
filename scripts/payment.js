@@ -56,7 +56,7 @@ payybtn.addEventListener("click", () => {
       mssg.innerText = "Payment Suceesfull!! Order  Confirmed";
       mssg.style.color = "green";
       setTimeout(() => {
-        window.location.href = "mobile.html";
+        window.location.href = "index.html";
       }, 2000);
       localStorage.clear();
     }
