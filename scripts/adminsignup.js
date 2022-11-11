@@ -18,7 +18,6 @@ async function sign() {
     username: username,
     password: pass,
     mobile: mob,
-    description: "hello",
   };
 
   let api = `https://masai-api-mocker.herokuapp.com/auth/register`;
@@ -31,13 +30,8 @@ async function sign() {
   });
   let res = await data.json();
   console.log(res);
-  console.log("hi");
-  // if (name == "" || mail == "" || username == "" || pass == "" || mob == "") {
-  //   alert("Please fill all the details");
-  // }
   if (res.error == false) {
-    alert("Signed Up Successfully");
-    window.location.href = "./index.html";
+    window.location.href = "login.html";
   } else {
     alert("registration failed");
   }
