@@ -1,4 +1,7 @@
-.signup {
+*{
+  font-family: montserrat,sans-serif;
+  letter-spacing:0.5px;
+}.signup {
   display: flex;
 }
 .signup h1,
@@ -32,17 +35,7 @@ h3 {
   background-color: #a5a5a5;
   color: white;
 }
-button {
-  padding: 10px 5px;
-  width: 50%;
-  margin-bottom: 20px;
-  background-color: white;
-  border: 1px solid gray;
-  border-radius: 5px;
-  font-size: 15px;
-  font-weight: bold;
-  color: #615c5c;
-}
+
 [type="submit"] {
   cursor: pointer;
 }
@@ -209,5 +202,5 @@ button {
 
 #signup:hover {
   background-color: rgb(3, 79, 134);
-  color: black;
+  color:white;
 }

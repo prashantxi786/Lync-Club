@@ -35,7 +35,7 @@ h4 {
   background-color: white;
   color: #42a2a2;
 }
-button {
+.btn {
   padding: 10px 5px;
   width: 50%;
   margin-bottom: 20px;
@@ -46,7 +46,7 @@ button {
   font-weight: bold;
   color: #615c5c;
 }
-[type="submit"] {
+input[type="submit"] {
   cursor: pointer;
 }
 #or-line {
@@ -247,7 +247,14 @@ button {
 
 * {
   text-decoration: none;
+  font-family: montserrat,sans-serif;
+  letter-spacing:0.5px;
 }
 #xyz:hover {
   color: #42a2a2;
+}
+
+#admin_login:hover{
+color: black;
+background-color:white
 }

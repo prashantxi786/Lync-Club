@@ -36,9 +36,17 @@ async function sign() {
   //   alert("Please fill all the details");
   // }
   if (res.error == false) {
-    alert("Signed Up Successfully");
-    window.location.href = "./index.html";
+    // alert("Signed Up Successfully");
+    let signuptext=document.getElementById("signuptext");
+    signuptext.innerText="Signed Up Successfully";
+    signuptext.style.color="green";
+    
+    window.location.href = "./login.html";
+
   } else {
-    alert("registration failed");
+    // alert("registration failed");
+    let signuptext=document.getElementById("signuptext");
+    signuptext.innerText="Signup failed";
+    signuptext.style.color="red";
   }
 }

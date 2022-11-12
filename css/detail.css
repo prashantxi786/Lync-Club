@@ -1,3 +1,7 @@
+*{
+  font-family: montserrat,sans-serif;
+  letter-spacing:0.5px;
+}
 #navbar {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   width: 100%;

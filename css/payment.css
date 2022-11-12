@@ -1,9 +1,13 @@
+*{
+  font-family: montserrat,sans-serif;
+  letter-spacing:0.5px;
+}
 #navbar {
   width: 80%;
   margin: auto;
 }
-#navbar > img {
-  height: 65px;
+#navbar img {
+  height: 55px;
 }
 
 #main {

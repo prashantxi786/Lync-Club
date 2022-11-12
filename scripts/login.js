@@ -26,9 +26,18 @@ async function loginid() {
   console.log(res);
   console.log("hi");
   if (res.error == false) {
-    alert("Logged In Successfully");
-    window.location.href = "./index.html";
+    // alert("Logged In Successfully");
+    let signuptext=document.getElementById("signuptext");
+    signuptext.innerText="Logged in Successfully";
+    signuptext.style.color="green";
+    document.getElementById("login").innerText="Welcome"
+    setTimeout(function() {
+      window.location.href = "./index.html";
+    }, 2000);
   } else {
-    alert("login failed");
+    // alert("login failed");
+    let signuptext=document.getElementById("signuptext");
+    signuptext.innerText="Login Failed";
+    signuptext.style.color="red";
   }
 }
