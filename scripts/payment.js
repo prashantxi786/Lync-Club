@@ -30,10 +30,11 @@ appenddata(data);
 let totalmrp = document.getElementById("totalmrp");
 totalmrp.innerText = total;
 let subtotal = document.getElementById("subtotal");
-subtotal.innerText = total - discodata-200;
+subtotal.innerText = total - discodata - 200;
+subtotal.style.font = "bold";
 let subtol = document.getElementById("subtol");
-subtol.innerText = total - discodata-200;
-
+subtol.innerText = total - discodata - 200;
+subtol.style.font = "500";
 let bagdisc = document.getElementById("bagdisc");
 bagdisc.innerText = discodata;
 
