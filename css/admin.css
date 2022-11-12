@@ -1,3 +1,7 @@
+*{
+  font-family: montserrat,sans-serif;
+  letter-spacing:0.5px;
+}
 .login {
   display: flex;
 }
@@ -31,7 +35,7 @@ h4 {
   background-color: #42a2a2;
   color: white;
 }
-button {
+.btn {
   padding: 10px 5px;
   width: 50%;
   margin-bottom: 20px;

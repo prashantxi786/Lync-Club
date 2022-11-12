@@ -1,3 +1,7 @@
+*{
+  font-family: montserrat,sans-serif;
+  letter-spacing:0.5px;
+}
 #main {
   width: 80%;
   margin: auto;
@@ -96,8 +100,8 @@
   width: 80%;
   margin: auto;
 }
-#navbar > img {
-  height: 65px;
+#navbar  img {
+  height: 60px;
 }
 #rgt {
   margin: 0px 15px;

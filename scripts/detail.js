@@ -25,7 +25,8 @@ floww.addEventListener("click", () => {
 
 let lastp = document.getElementById("1");
 lastp.addEventListener("click", () => {
-  window.location.href = "cart.html";
+  alert("Item added to cart succesfully!")
+  window.location.href = "mobile.html";
   cartFun();
 });
 

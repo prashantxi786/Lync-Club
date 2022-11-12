@@ -1,6 +1,6 @@
 const navbar = () => {
   return `<div id="img">
-    <img id="logo" src="https://i.postimg.cc/Kjz5HCk7/Be-Funky-photo.png" alt="">
+    <a href="index.html"><img id="logo" src="https://i.postimg.cc/Kjz5HCk7/Be-Funky-photo.png" alt=""></a>
 </div>
 <div id="mwm">
     <div id="mwmdiv">
@@ -176,7 +176,7 @@ const navbar = () => {
         <div id="seperator"></div>
         <a id="login" href="login.html">Login</a>
         <i class="fa-regular fa-heart"></i>
-        <img id="cart" src="https://i.postimg.cc/MZQbCVdV/5623037171578981506-20.png" alt="">
+        <a href="cart.html"><img id="cart" src="https://i.postimg.cc/MZQbCVdV/5623037171578981506-20.png" alt=""></a>
         <img id="countryicon" src="https://images.bewakoof.com/web/india-flag-round-1639566913.png" alt="">
     </div>
 </div>`;
