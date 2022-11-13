@@ -1,7 +1,7 @@
 import { navbar } from "./navbar.js";
 document.getElementById("navbar").innerHTML = navbar();
 let data = JSON.parse(localStorage.getItem("cover"));
-let b = JSON.parse(localStorage.getItem("brand"));
+let b = localStorage.getItem("brand");
 // let x = b.toUpperCase();
 // console.log(data.image);
 const append = (data, b) => {
@@ -20,13 +20,13 @@ append(data, b);
 
 let floww = document.getElementById("floww");
 floww.addEventListener("click", () => {
-  window.location.href = "mobile.html";
+  window.location.href = "index.html";
 });
 
 let lastp = document.getElementById("1");
 lastp.addEventListener("click", () => {
   alert("Item added to cart succesfully!")
-  window.location.href = "mobile.html";
+  window.location.href = "index.html";
   cartFun();
 });
 
