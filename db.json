@@ -887,5 +887,2384 @@
       "mob": "",
       "id": 4
     }
+  ],
+  "T-shirt":[
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-bwkf-oversized-t-shirt-551741-1668168888-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Black BWKF Typography Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹1399",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-bwkf-oversized-t-shirt-551754-1668168973-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Green BWKF Typography Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹1399",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-bwkf-oversized-t-shirt-551753-1668169011-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's White BWKF Typography Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹1399",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-bird-egg-green-plain-t-shirt-539792-1667398952-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Bird Egg Green Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹999",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-half-sleeve-t-shirt-554305-1668173526-1.jpg",
+      "plp": "DESIGN OF THE DAY",
+      "name": "Men's Black King of Curses Sukuna Graphic Printed T-shirt",
+      "price": 449,
+      "act_price": "₹999",
+      "PriceBox": "₹409"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-oversized-full-sleeve-t-shirt-554302-1668173600-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Blue King of Curses Sukuna Graphic Printed Oversized T-shirt",
+      "price": 799,
+      "act_price": "₹1499",
+      "PriceBox": "₹739"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-oversized-t-shirt-554306-1668173643-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Blue King of Curses Sukuna Graphic Printed Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹1299",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-full-sleeve-t-shirt-554303-1668173452-1.jpg",
+      "plp": "DESIGN OF THE DAY",
+      "name": "Men's Black King of Curses Sukuna Graphic Printed T-shirt",
+      "price": 499,
+      "act_price": "₹999",
+      "PriceBox": "₹459"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/hod-iconic-half-sleeve-t-shirt-519411-1657896509-1.jpg",
+      "plp": "",
+      "name": "Men's Black House Of The Dragon Iconic Graphic Printed T-shirt",
+      "price": 388,
+      "act_price": "₹999",
+      "PriceBox": "₹359"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-customizable-plus-size-half-sleeve-t-shirt-504371-1655460227-1.jpg",
+      "plp": "",
+      "name": "Men's White Customizable Plus Size Half Sleeve T-shirt",
+      "price": 599,
+      "act_price": "₹949",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-t-shirt-1093-1655746832-1.jpg",
+      "plp": "BUY 3 FOR 899",
+      "name": "Men's White T-shirt",
+      "price": 357,
+      "act_price": "₹1199",
+      "PriceBox": "₹329"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/white-half-sleeve-t-shirt-105-1666332512-1.jpg",
+      "plp": "BUY 3 FOR 899",
+      "name": "White Half Sleeve T-Shirt",
+      "price": 388,
+      "act_price": "₹999",
+      "PriceBox": "₹359"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-black-plain-t-shirt-539556-1668071378-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Black Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1349",
+      "PriceBox": "₹639"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-vibes-t-shirt-298518-1655747859-1.jpg",
+      "plp": "",
+      "name": "Men's Black Vibes T-shirt",
+      "price": 431,
+      "act_price": "₹1299",
+      "PriceBox": "₹399"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-lilac-bloom-solid-t-shirt-507614-1668075581-1.JPG",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Lilac OversizedT-shirt",
+      "price": 599,
+      "act_price": "₹899",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-rose-dawn-plain-t-shirt-540860-1667912491-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Rose Dawn Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹1149",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-purple-wow-oversized-t-shirt-549266-1668083566-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Lilac WOW Typography Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1349",
+      "PriceBox": "₹639"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/mens-solid-t-shirt-516425-1668071420-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Navy Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1849",
+      "PriceBox": "₹649"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-rose-dawn-plain-t-shirt-540860-1667912491-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Black Striped Oversized T-shirt",
+      "price": 799,
+      "act_price": "₹1499",
+      "PriceBox": "₹739"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-bwkf-oversized-t-shirt-551753-1668169011-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Lilac Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1349",
+      "PriceBox": "₹639"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-half-sleeve-t-shirt-554305-1668173526-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Beige Mickey Graphic Printed OversizedT-shirt",
+      "price": 899,
+      "act_price": "₹1449",
+      "PriceBox": "₹829"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/mens-solid-t-shirt-516425-1668071420-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Black Adjust Your Focus Typography Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1149",
+      "PriceBox": "₹639"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-purple-wow-oversized-t-shirt-549266-1668083566-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's White Disney Crew Graphic Printed Oversized T-shirt",
+      "price": 799,
+      "act_price": "₹1399",
+      "PriceBox": "₹739"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/mens-solid-t-shirt-516425-1668071420-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Black FOMO Typography Oversized T-shirt",
+      "price": 849,
+      "act_price": "₹1449",
+      "PriceBox": "₹779"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-half-sleeve-t-shirt-554305-1668173526-1.jpg",
+      "plp": "SUPER LOOSE FIT",
+      "name": "Men's Black Reflective X Typography Super Loose T-shirt",
+      "price": 899,
+      "act_price": "₹1549",
+      "PriceBox": "₹829"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/mens-solid-t-shirt-516425-1668071420-1.jpg",
+      "plp": "SUPER LOOSE FIT",
+      "name": "Men's Black Beyond Reality Typography Super Loose T-shirt",
+      "price": 899,
+      "act_price": "₹1499",
+      "PriceBox": "₹829"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-half-sleeve-t-shirt-554305-1668173526-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's White Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1749",
+      "PriceBox": "₹649"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/mens-solid-t-shirt-516425-1668071420-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "name": "Men's Verdant Green Toxic Typography Oversized Hoodie T-shirt",
+      "price": 599,
+      "act_price": "₹1299",
+      "PriceBox": "₹549"
+    }
+  
+  ],
+  "Shirt":[
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-pink-cotton-shirt-538471-1661765868-1.jpg",
+      "brandname": "Dillinger",
+      "name": "Men's Pink Cotton Shirt",
+      "price": 899,
+      "act_price": "₹1999",
+      "PriceBox": "₹849",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-maroon-cotton-shirt-538465-1661765836-1.jpg",
+      "brandname": "Dillinger",
+      "name": "Men's Maroon Cotton Shirt",
+      "price": 899,
+      "act_price": "₹1999",
+      "PriceBox": "₹849",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-green-slim-fit-shirt-542489-1663236339-1.jpg",
+      "brandname": "Snitch",
+      "name": "Men's Green Slim Fit Shirt",
+      "price": 1055,
+      "act_price": "₹2399",
+      "PriceBox": "₹989",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-maroon-cotton-shirt-538473-1661765900-1.jpg",
+      "brandname": "Dillinger",
+      "name": "Men's Maroon Cotton Shirt",
+      "price": 899,
+      "act_price": "₹1999",
+      "PriceBox": "₹849",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-all-over-printed-slim-fit-shirt-539928-1662121862-1.jpg",
+      "brandname": "Snitch",
+      "name": "Men's White All Over Printed Slim Fit Shirt",
+      "price": 899,
+      "act_price": "₹1798",
+      "PriceBox": "₹849",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-green-striped-slim-fit-shirt-541360-1662717784-1.jpg",
+      "brandname": "Snitch",
+      "name": "Men's Green Striped Slim Fit Shirt",
+      "price": 899,
+      "act_price": "₹1799",
+      "PriceBox": "₹849",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-yellow-striped-slim-fit-shirt-538655-1661776903-1.jpg",
+      "brandname": "Rigo",
+      "name": "Men's White & Yellow Striped Slim Fit Shirt",
+      "price": 699,
+      "act_price": "₹1399",
+      "PriceBox": "₹659",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-striped-slim-fit-shirt-538653-1661776616-1.jpg",
+      "brandname": "Rigo",
+      "name": "Men's Blue Striped Slim Fit Shirt",
+      "price": 699,
+      "act_price": "₹1399",
+      "PriceBox": "₹659",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-green-grey-checked-slim-fit-shirt-541386-1662717315-1.jpg",
+      "brandname": "Snitch",
+      "name": "Men's Green & Grey Checked Slim Fit Shirt",
+      "price": 999,
+      "act_price": "₹1999",
+      "PriceBox": "₹939",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-casual-shirt-516808-1663745047-1.jpg",
+      "brandname": "Hubberholme",
+      "name": "Men's Blue Casual Shirt",
+      "price": 699,
+      "act_price": "₹1299",
+      "PriceBox": "₹659",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-green-casual-shirt-516828-1663744759-1.jpg",
+      "brandname": "Hubberholme",
+      "name": "Men's Green Casual Shirt",
+      "price": 719,
+      "act_price": "₹1299",
+      "PriceBox": "₹679",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/white-half-sleeve-t-shirt-105-1666332512-1.jpg",
+      "brandname": "Hubberholme",
+      "name": "Men's Blue & White Color Block Shirt",
+      "price": 719,
+      "act_price": "₹1999",
+      "PriceBox": "₹679",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-black-plain-t-shirt-539556-1668071378-1.jpg",
+      "brandname": "TISTABENE",
+      "name": "Men's Beige All Over Elephant Printed Slim Fit Shirt",
+      "price": 799,
+      "act_price": "₹999",
+      "PriceBox": "₹769",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-vibes-t-shirt-298518-1655747859-1.jpg",
+      "brandname": "Snitch",
+      "name": "Men's Yellow Slim Fit Shirt",
+      "price": 599,
+      "act_price": "₹999",
+      "PriceBox": "₹579",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-lilac-bloom-solid-t-shirt-507614-1668075581-1.JPG",
+      "brandname": "Snitch",
+      "name": "Men's Navy Checked Slim Fit Shirt",
+      "price": 839,
+      "act_price": "₹1399",
+      "PriceBox": "₹809",
+      "plp": "SLIM FIT"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-rose-dawn-plain-t-shirt-540860-1667912491-1.jpg",
+      "brandname": "TISTABENE",
+      "name": "Men's Black Floral Printed Shirt",
+      "price": 819,
+      "act_price": "₹999",
+      "PriceBox": "₹789",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-purple-wow-oversized-t-shirt-549266-1668083566-1.jpg",
+      "brandname": "TISTABENE",
+      "name": "Men's Cream Floral Printed Shirt",
+      "price": 728,
+      "act_price": "₹899",
+      "PriceBox": "₹699",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/mens-solid-t-shirt-516425-1668071420-1.jpg",
+      "brandname": "Campus Sutra",
+      "name": "Men's Yellow & White Striped Cotton Shirt",
+      "price": 824,
+      "act_price": "₹1499",
+      "PriceBox": "₹779",
+      "plp": ""
+    }
+    
+  ],
+  "Sweatshirt":[
+    {
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-crewneck-sweatshirt-554308-1668173801-1.jpg",
+      "plp": "DESIGN OF THE DAY",
+      "brandname": "Bewakoof",
+      "name": "Men's Blue King of Curses Sukuna Graphic Printed Sweatshirt",
+      "price": 999,
+      "act_price": "₹2499",
+      "PriceBox": "₹929",
+      "clr-shade-3": "",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-ginger-root-wow-printed-sweatshirt-549260-1668063393-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Beige WOW Typography Oversized Sweatshirt",
+      "price": 1599,
+      "act_price": "₹2499",
+      "PriceBox": "₹1469",
+      "clr-shade-3": "",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-wow-oversized-sweatshirt-549270-1668063430-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's WOW Typography Oversized Sweatshirt",
+      "price": 1599,
+      "act_price": "₹2499",
+      "PriceBox": "₹1469",
+      "clr-shade-3": "",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-good-vibes-typography-oversized-sweatshirt-554138-1668068105-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Blue Good Vibes Typography Oversized Sweatshirt",
+      "price": 1399,
+      "act_price": "₹2999",
+      "PriceBox": "₹1289",
+      "clr-shade-3": "",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/joey-doesn-t-share-food-oversized-sweatshirt-554127-1668148988-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Black Joey Doesn't Share Food Typography Oversized Sweatshirt",
+      "price": 1499,
+      "act_price": "₹2999",
+      "PriceBox": "₹1379",
+      "clr-shade-3": "",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-fine-by-me-typography-sweatshirt-554137-1668067867-1.jpg",
+      "plp": "DESIGN OF THE DAY",
+      "brandname": "Bewakoof",
+      "name": "Men's Black Fine By Me Typography Sweatshirt",
+      "price": 999,
+      "act_price": "₹2499",
+      "PriceBox": "₹929",
+      "clr-shade-3": 5,
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-bored-teddy-graphic-printed-oversized-sweatshirt-549265-1668079903-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Black Bored Teddy Graphic Printed Oversized Sweatshirt",
+      "price": 1599,
+      "act_price": "₹2499",
+      "PriceBox": "₹1469",
+      "clr-shade-3": "",
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/god-of-all-shinobi-hashirama-senju-oversized-sweatshirt-550838-1666350970-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Green God Of All Shinobi Hashirama Senju Graphic Printed Oversized Sweatshirt",
+      "price": 1199,
+      "act_price": "₹2499",
+      "PriceBox": "₹1099",
+      "clr-shade-3": 4.6,
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/black-adam-anti-hero-oversized-sweatshirt-550063-1666253345-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Grey Black Adam Anti Hero Graphic Printed Oversized Sweatshirt",
+      "price": 1199,
+      "act_price": "₹2499",
+      "PriceBox": "₹1099",
+      "clr-shade-3": 4.4,
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/kung-fu-panda-oversized-sweatshirt-549081-1666091792-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Grey Kung Fu Panda Graphic Printed Oversized Sweatshirt",
+      "price": 1199,
+      "act_price": "₹2499",
+      "PriceBox": "₹1099",
+      "clr-shade-3": 4.5,
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-black-aot-founding-titan-printed-sweatshirt-541453-1664376703-1.jpg",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Men's Black AOT Founding Titan Graphic Printed Sweatshirt",
+      "price": 999,
+      "act_price": "₹2099",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.4,
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-black-spaced-nasa-printed-sweatshirt-541470-1664377222-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Black NASA Typography Oversized Sweatshirt",
+      "price": 1199,
+      "act_price": "₹2499",
+      "PriceBox": "₹1099",
+      "clr-shade-3": 4.6,
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-red-plum-spaced-nasa-printed-sweatshirt-541461-1664376655-1.jpg",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Men's Red Plum NASA Typography Sweatshirt",
+      "price": 999,
+      "act_price": "₹2099",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.7,
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-black-galactic-spectrum-printed-sweatshirt-541521-1665572438-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Men's Black Galactic Spectrum Graphic Printed Oversized Sweatshirt",
+      "price": 1499,
+      "act_price": "₹2499",
+      "PriceBox": "₹1379",
+      "clr-shade-3": 4.4,
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-navy-blue-dope-af-printed-sweatshirt-541457-1664426350-1.jpg",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Men Navy Blue Dope AF Typography Sweatshirt",
+      "price": 999,
+      "act_price": "₹2099",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.5,
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-deep-teal-killmonger-printed-sweatshirt-541452-1664426387-1.jpg",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Men's Deep Teal Killmonger Graphic Printed Sweatshirt",
+      "price": 999,
+      "act_price": "₹2099",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.6,
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-crewneck-solid-black-sweatshirt-363692-1656169392-1.jpg",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Men's Crewneck Solid Black Sweatshirt",
+      "price": 964,
+      "act_price": "₹1799",
+      "PriceBox": "₹889",
+      "clr-shade-3": 4.5,
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/red-plum-crewneck-fleece-sweatshirt-363691-1656188873-1.jpg",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Red Plum Crewneck Fleece Sweatshirt",
+      "price": 1157,
+      "act_price": "₹1899",
+      "PriceBox": "₹1059",
+      "clr-shade-3": 4.5,
+      "d-flex": ""
+    }
+  ],
+  "Boxer":[
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-aop-boxer-497414-1655988345-1.jpg",
+      "plp": "BUY 1 GET 1",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Men's Blue All Over Printed Boxers",
+      "price": 413,
+      "act_price": "₹699",
+      "PriceBox": "₹379",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/boomboxes-all-over-printed-boxer-235643-1655751955-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Men's Red Boomboxes AOP Boxers",
+      "price": 299,
+      "act_price": "₹399",
+      "PriceBox": "₹279",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-chive-boxers-460015-1658500791-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": "",
+      "brandname": "Bewakoof",
+      "name": "Men's Chive Boxers",
+      "price": 338,
+      "act_price": "₹599",
+      "PriceBox": "₹309",
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-boxers-460052-1658499513-1.jpg",
+      "plp": "BUY 1 GET 1",
+      "clr-shade-3": "",
+      "brandname": "Bewakoof",
+      "name": "Men's Black Boxers",
+      "price": 367,
+      "act_price": "₹599",
+      "PriceBox": "₹339",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/motorhead-all-over-printed-boxer-235784-1655747875-1.jpg",
+      "plp": "BUY 3 FOR 899",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Motorhead All Over Printed Boxer",
+      "price": 388,
+      "act_price": "₹899",
+      "PriceBox": "₹359",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-printed-relaxed-fit-boxers-pack-of-2-534814-1660120865-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": "",
+      "brandname": "Blue Tyga",
+      "name": "Men's Blue & Grey Printed Relaxed Fit Boxers (Pack Of 2)",
+      "price": 499,
+      "act_price": "₹999",
+      "PriceBox": "₹469",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/red-passion-plain-boxer-233080-1661434306-1.jpg",
+      "plp": "BUY 2 FOR 599",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Red Passion Plain Boxer",
+      "price": 345,
+      "act_price": "₹399",
+      "PriceBox": "₹309",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/jet-black-plain-boxer-26554-1659078235-1.jpg",
+      "plp": "BUY 2 FOR 599",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Jet Black Plain Boxer",
+      "price": 336,
+      "act_price": "₹399",
+      "PriceBox": "₹309",
+      "d-flex": "Few Left"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-all-over-bugs-bunny-circles-printed-pyjamas-464426-1667387415-1.jpg",
+      "plp": "BUY 3 FOR 899",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's White All Over Bugs Bunny Circles Printed Boxers",
+      "price": 385,
+      "act_price": "₹699",
+      "PriceBox": "₹349",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-all-over-printed-boxers-497452-1656166402-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Black All Over Printed Boxers",
+      "price": 275,
+      "act_price": "₹699",
+      "PriceBox": "₹259",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-red-all-over-printed-boxers-497446-1656154775-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": "",
+      "brandname": "Bewakoof",
+      "name": "Men's Red All Over Printed Boxers",
+      "price": 275,
+      "act_price": "₹699",
+      "PriceBox": "₹259",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-aop-boxer-497432-1655873258-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's White All Over Camo Printed Boxers",
+      "price": 275,
+      "act_price": "₹699",
+      "PriceBox": "₹259",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/chibi-skulls-464391-1659076990-1.jpg",
+      "plp": "BUY 2 FOR 599",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Black All Over Chibi Skulls Printed Boxers",
+      "price": 359,
+      "act_price": "₹699",
+      "PriceBox": "₹329",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/avengers-broken-logo-464424-1658500162-1.jpg",
+      "plp": "BUY 2 FOR 599",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Blue All Over Avengers Broken Logo Printed Boxers",
+      "price": 359,
+      "act_price": "₹799",
+      "PriceBox": "₹329",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/signs-464400-1659076909-1.jpg",
+      "plp": "BUY 3 FOR 899",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Men's Red All Over Signs Printed Boxers",
+      "price": 449,
+      "act_price": "₹699",
+      "PriceBox": "₹409",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/game-over-464395-1659077692-1.jpg",
+      "plp": "BUY 2 FOR 599",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Men's Black All Over Game Over Printed Boxers",
+      "price": 359,
+      "act_price": "₹699",
+      "PriceBox": "₹329",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-yellow-all-over-printed-boxers-497420-1659016654-1.jpg",
+      "plp": "BUY 1 GET 1",
+      "clr-shade-3": 4.7,
+      "brandname": "Bewakoof",
+      "name": "Men's Yellow All Over Printed Boxers",
+      "price": 413,
+      "act_price": "₹699",
+      "PriceBox": "₹379",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-aop-boxer-497437-1655872665-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Men's Blue All Over Printed Boxers",
+      "price": 275,
+      "act_price": "₹699",
+      "PriceBox": "₹259",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-red-all-over-printed-boxers-497439-1659016739-1.jpg",
+      "plp": "BUY 1 GET 1",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Men's Red All Over Printed Boxers",
+      "price": 413,
+      "act_price": "₹699",
+      "PriceBox": "₹379",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/game-consoles-464437-1659017615-1.jpg",
+      "plp": "BUY 2 FOR 599",
+      "clr-shade-3": 4.7,
+      "brandname": "Bewakoof",
+      "name": "Men's Blue All Over Game Consoles Printed Boxers",
+      "price": 359,
+      "act_price": "₹699",
+      "PriceBox": "₹329",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/chibi-skulls-464481-1659078278-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Blue Chibi Skulls All Over Printed Boxers",
+      "price": 314,
+      "act_price": "₹699",
+      "PriceBox": "₹289",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-boxers-460054-1656153605-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Blue Boxers",
+      "price": 228,
+      "act_price": "₹599",
+      "PriceBox": "₹209",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-all-over-printed-boxer-481815-1655872871-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Men's Blue All Over Self Design Printed Boxers",
+      "price": 228,
+      "act_price": "₹599",
+      "PriceBox": "₹209",
+      "d-flex": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/roobios-tea-solid-boxer-460013-1659076866-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Men's Roobios Tea Boxers",
+      "price": 269,
+      "act_price": "₹599",
+      "PriceBox": "₹249",
+      "d-flex": ""
+    }
+  ],
+  "Brief":[
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-brief-pack-of-2-514265-1659624801-1.jpg",
+      "clr-shade-3": 5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black Basic Brief (Pack of 2)",
+      "price": 549,
+      "act_price": "₹799",
+      "PriceBox": "₹509",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-brief-pack-of-2-514267-1659624194-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's White Basic Brief (Pack of 2)",
+      "price": 549,
+      "act_price": "₹799",
+      "PriceBox": "₹509",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-brief-pack-of-2-514268-1659625256-1.jpg",
+      "clr-shade-3": 5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black Modal Brief (Pack of 2)",
+      "price": 699,
+      "act_price": "₹999",
+      "PriceBox": "₹639",
+      "d-flex": "",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-grey-brief-pack-of-2-514269-1659624068-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Grey Modal Brief (Pack of 2)",
+      "price": 699,
+      "act_price": "₹999",
+      "PriceBox": "₹639",
+      "d-flex": "",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-and-green-brief-pack-of-2-514272-1659625334-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black & Green Basic Brief (Pack of 2)",
+      "price": 549,
+      "act_price": "₹799",
+      "PriceBox": "₹509",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-and-grey-brief-pack-of-2-514273-1659625723-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Blue & Grey Basic Brief (Pack of 2)",
+      "price": 549,
+      "act_price": "₹799",
+      "PriceBox": "₹509",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-and-black-brief-pack-of-2-514275-1659624322-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black & White Basic Brief (Pack of 2)",
+      "price": 549,
+      "act_price": "₹799",
+      "PriceBox": "₹509",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-green-modal-brief-pack-of-2-514296-1659690813-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black & Green Modal Brief (Pack of 2)",
+      "price": 699,
+      "act_price": "₹999",
+      "PriceBox": "₹639",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-and-white-stripe-brief-pack-of-2-514299-1659624369-1.jpg",
+      "clr-shade-3": 5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black & White Striped Brief (Pack of 2)",
+      "price": 599,
+      "act_price": "₹899",
+      "PriceBox": "₹549",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-grey-and-white-brief-pack-of-2-514289-1659625381-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Grey & White Basic Brief (Pack of 2)",
+      "price": 549,
+      "act_price": "₹799",
+      "PriceBox": "₹509",
+      "d-flex": "",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-and-black-solid-sports-brief-pack-of-2-514292-1659625175-1.jpg",
+      "clr-shade-3": 5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Color Block Sporty Brief (Pack of 2)",
+      "price": 599,
+      "act_price": "₹799",
+      "PriceBox": "₹549",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-and-grey-brief-pack-of-2-514305-1659625597-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black & Grey Modal Brief (Pack of 2)",
+      "price": 699,
+      "act_price": "₹999",
+      "PriceBox": "₹639",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-yellow-and-blue-brief-pack-of-2-514287-1659624522-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Blue & Yellow Basic Brief (Pack of 2)",
+      "price": 549,
+      "act_price": "₹799",
+      "PriceBox": "₹509",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-purple-and-grey-brief-pack-of-2-514294-1659624865-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Wine & Grey Modal Brief (Pack of 2)",
+      "price": 699,
+      "act_price": "₹999",
+      "PriceBox": "₹639",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-yellow-striped-brief-459018-1658159161-1.jpg",
+      "clr-shade-3": 4.5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black & Yellow Striped Brief",
+      "price": 449,
+      "act_price": "",
+      "PriceBox": "₹409",
+      "d-flex": "",
+      "plp": "BUY 1 GET 1"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-all-over-weed-printed-brief-458812-1658159648-1.jpg",
+      "clr-shade-3": 4.7,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black All Over Weed Printed Brief",
+      "price": 449,
+      "act_price": "",
+      "PriceBox": "₹409",
+      "d-flex": "",
+      "plp": "BUY 1 GET 1"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-red-all-over-flash-printed-brief-458816-1658159574-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Red All Over Flash Printed Brief",
+      "price": 449,
+      "act_price": "",
+      "PriceBox": "₹409",
+      "d-flex": "",
+      "plp": "BUY 1 GET 1"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-white-all-over-newspaper-printed-brief-458945-1657791325-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's White All Over Newspaper Printed Brief",
+      "price": 349,
+      "act_price": "₹449",
+      "PriceBox": "₹319",
+      "d-flex": "",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-basic-brief-459025-1658159882-1.jpg",
+      "clr-shade-3": 5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black Basic Brief",
+      "price": 399,
+      "act_price": "",
+      "PriceBox": "₹359",
+      "d-flex": "",
+      "plp": "BUY 1 GET 1"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-all-over-batman-printed-brief-458808-1658159611-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black All Over Batman Printed Brief",
+      "price": 349,
+      "act_price": "₹449",
+      "PriceBox": "₹319",
+      "d-flex": "",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-green-brief-458933-1657791258-1.jpg",
+      "clr-shade-3": 4.5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Green Modal Brief",
+      "price": 499,
+      "act_price": "",
+      "PriceBox": "₹449",
+      "d-flex": "",
+      "plp": "LUXURY"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-basic-brief-459024-1658160069-1.jpg",
+      "clr-shade-3": 5,
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black Basic Brief",
+      "price": 299,
+      "act_price": "₹399",
+      "PriceBox": "₹279",
+      "d-flex": "Few Left",
+      "plp": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-sporty-brief-458801-1658158861-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Black Sporty Brief",
+      "price": 399,
+      "act_price": "",
+      "PriceBox": "₹359",
+      "d-flex": "",
+      "plp": "BUY 1 GET 1"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-grey-modal-brief-459001-1658159124-1.jpg",
+      "clr-shade-3": "",
+      "brandname": "UNDRDAWG by BEWAKOOF",
+      "name": "Men's Grey Modal Brief",
+      "price": 499,
+      "act_price": "",
+      "PriceBox": "₹449",
+      "d-flex": "",
+      "plp": "LUXURY"
+    } 
+  ],
+
+  "Jogger":[
+    {
+      "image": "https://images.bewakoof.com/t640/navy-blue-zipper-jogger-321139-1655747796-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Navy Blue Zipper Jogger",
+      "price": 899,
+      "act_price": "₹1299",
+      "PriceBox": "₹829"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/alpha-green-casual-jogger-pants-291831-1655750797-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Alpha Green Casual Jogger Pants",
+      "price": 735,
+      "act_price": "₹999",
+      "PriceBox": "₹679"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-solid-oversize-fit-joggers-516604-1667979511-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 5,
+      "brandname": "Bewakoof",
+      "name": "Men's Black Oversized Jogger",
+      "price": 1199,
+      "act_price": "₹2299",
+      "PriceBox": "₹1099"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/light-grey-zipper-jogger-321136-1655751312-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Men's Light Grey Zipper Joggers",
+      "price": 964,
+      "act_price": "₹1299",
+      "PriceBox": "₹889"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/jet-black-casual-jogger-pants-with-zipper-321141-1655750994-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Jet Black Casual Jogger Pants With Zipper",
+      "price": 964,
+      "act_price": "₹1299",
+      "PriceBox": "₹889"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/feel-good-lilac-solid-joggers-454663-1655751717-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Men's Purple Feel Good Joggers",
+      "price": 716,
+      "act_price": "₹1599",
+      "PriceBox": "₹659"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-color-block-baggy-relaxed-fit-joggers-459485-1656167745-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Black Color Block Baggy Relaxed Fit Joggers",
+      "price": 643,
+      "act_price": "₹1899",
+      "PriceBox": "₹599"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-iron-man-typography-joggers-466060-1656147732-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Men's Black Iron Man Typography Joggers",
+      "price": 674,
+      "act_price": "₹1999",
+      "PriceBox": "₹629"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-and-red-color-block-joggers-451617-1656144914-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Men's Black and Red Color Block Joggers",
+      "price": 643,
+      "act_price": "₹1799",
+      "PriceBox": "₹599"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-grey-dragon-ball-z-typography-joggers-468755-1655834167-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Grey Dragon Ball Z Typography Joggers",
+      "price": 643,
+      "act_price": "₹2199",
+      "PriceBox": "₹599"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-wakanda-forever-typography-relaxed-fit-joggers-466070-1655835014-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Men's Black Wakanda Forever Typography Relaxed Fit Joggers",
+      "price": 819,
+      "act_price": "₹1999",
+      "PriceBox": "₹749"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-nova-black-relaxed-fit-joggers-552666-1667824575-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": "",
+      "brandname": "Brown Mocha",
+      "name": "Men's Nova Black Relaxed Fit Joggers",
+      "price": 1299,
+      "act_price": "₹1499",
+      "PriceBox": "₹1249"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/charcoal-grey-jogger-pants-with-zipper-321137-1656184057-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Men's Charcoal Grey Zipper Joggers",
+      "price": 864,
+      "act_price": "₹1299",
+      "PriceBox": "₹789"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/dark-forest-green-casual-jogger-pant-293072-1656107936-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Forest Green Casual Joggers",
+      "price": 821,
+      "act_price": "₹999",
+      "PriceBox": "₹749"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-olive-camouflage-printed-relaxed-fit-joggers-541189-1662701980-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": "",
+      "brandname": "THE DRY STATE",
+      "name": "Men's Olive Camouflage Printed Relaxed Fit Joggers",
+      "price": 815,
+      "act_price": "₹2399",
+      "PriceBox": "₹769"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/dark-maroon-jogger-pants-321138-1656175114-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Dark Maroon Jogger Pants",
+      "price": 821,
+      "act_price": "₹1299",
+      "PriceBox": "₹759"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/nimbus-grey-men-s-joggers-283386-1655747870-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Nimbus Grey Men's Joggers",
+      "price": 864,
+      "act_price": "₹1599",
+      "PriceBox": "₹789"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/navy-blue-casual-jogger-pant-293071-1655748181-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Navy Blue Casual Jogger Pant",
+      "price": 777,
+      "act_price": "₹999",
+      "PriceBox": "₹709"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/sage-green-cotton-jogger-pants-330852-1663661717-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.3,
+      "brandname": "Bewakoof",
+      "name": "Sage Green Cotton Jogger Pants",
+      "price": 771,
+      "act_price": "₹1699",
+      "PriceBox": "₹709"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/prussian-blue-casual-jogger-pants-244784-1655750615-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Prussian Blue Casual Jogger Pants",
+      "price": 599,
+      "act_price": "₹899",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/black-basic-jogger-pants-338850-1655751421-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Men's Black Basic Joggers",
+      "price": 864,
+      "act_price": "₹1299",
+      "PriceBox": "₹789"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/moss-green-casual-jogger-pant-293068-1656193408-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Men's Charcoal Grey Casual Joggers",
+      "price": 777,
+      "act_price": "₹999",
+      "PriceBox": "₹709"
+    }
+  ],
+  "Women_t-shirt":[
+    {
+      "image": "https://images.bewakoof.com/t640/customizable-women-black-round-neck-t-shirt-443869-1655813695-1.jpg",
+      "name": "Customizable Women Black Round Neck T-Shirt",
+      "price": 499,
+      "act_price": "₹830",
+      "PriceBox": "₹459",
+      "plp": "",
+      "clr-shade-3": "",
+      "wishlist-icon-animate src": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/bewakoof-customizable-women-black-boyfriend-fit-t-shirt-489856-1655814099-1.jpg",
+      "name": "Customizable Women Black Boyfriend Fit T Shirt",
+      "price": 549,
+      "act_price": "₹949",
+      "PriceBox": "₹509",
+      "plp": "",
+      "clr-shade-3": "",
+      "wishlist-icon-animate src": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-oversized-t-shirt-463568-1667553896-1.jpg",
+      "name": "Women's Black Oversized T-shirt",
+      "price": 431,
+      "act_price": "₹849",
+      "PriceBox": "₹399",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.5,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/bewakoof-customizable-women-white-boyfriend-fit-t-shirt-489854-1655816828-1.jpg",
+      "name": "Customizable Women White Boyfriend Fit T Shirt",
+      "price": 549,
+      "act_price": "₹949",
+      "PriceBox": "₹509",
+      "plp": "",
+      "clr-shade-3": "",
+      "wishlist-icon-animate src": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-white-disney-original-crew-printed-t-shirt-516690-1667912070-1.jpg",
+      "name": "Women's White Disney Crew Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1349",
+      "PriceBox": "₹639",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.5,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-black-hyper-smrfs-printed-t-shirt-516686-1667911963-1.jpg",
+      "name": "Women's Black The Smurfs Graphic Printed Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹1399",
+      "PriceBox": "₹549",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.7,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/customizable-women-s-red-boyfriend-t-shirt-540833-1662452084-1.jpg",
+      "name": "Women's Red Customizable Boyfriend T-shirt",
+      "price": 549,
+      "act_price": "₹849",
+      "PriceBox": "₹509",
+      "plp": "",
+      "clr-shade-3": "",
+      "wishlist-icon-animate src": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-aventurine-plain-t-shirt-546492-1668165377-1.jpg",
+      "name": "Women's Aventurine Green Oversized T-shirt",
+      "price": 599,
+      "act_price": "₹999",
+      "PriceBox": "₹549",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": "",
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-lilac-it-s-cost-zero-half-half-typography-oversized-t-shirt-516678-1667912033-1.jpg",
+      "name": "Women's Lilac It's Cost Zero Half & Half Typography Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1399",
+      "PriceBox": "₹639",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-vibin-thrivin-oversized-t-shirt-549267-1668063573-1.jpg",
+      "name": "Women's Black Vibin & Thrivin Typography Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1299",
+      "PriceBox": "₹639",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-pink-oversized-t-shirt-463625-1667495692-1.jpg",
+      "name": "Women's Pink Oversized T-shirt",
+      "price": 499,
+      "act_price": "₹849",
+      "PriceBox": "₹459",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.7,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/lilac-bloom-boyfriend-t-shirt-346178-1666332865-1.jpg",
+      "name": "Lilac Bloom Boyfriend T-Shirt",
+      "price": 388,
+      "act_price": "₹999",
+      "PriceBox": "₹359",
+      "plp": "BOYFRIEND FIT",
+      "clr-shade-3": 4.6,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-black-grey-stripe-lose-the-ego-printed-t-shirt-516684-1667898892-1.jpg",
+      "name": "Women's Black and Grey Ego Striped Oversized T-shirt",
+      "price": 799,
+      "act_price": "₹1449",
+      "PriceBox": "₹739",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.5,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-white-oversized-t-shirt-512113-1667493465-1.jpg",
+      "name": "Women's White Oversized T-shirt",
+      "price": 459,
+      "act_price": "₹899",
+      "PriceBox": "₹419",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.5,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-bored-teddy-oversized-t-shirt-549269-1668079641-1.jpg",
+      "name": "Women's Black Bored Teddy Graphic Printed Oversized T-shirt",
+      "price": 799,
+      "act_price": "₹1299",
+      "PriceBox": "₹739",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-mess-oversized-t-shirt-551747-1668079865-1.jpg",
+      "name": "Women's Green Mess Typography Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1299",
+      "PriceBox": "₹639",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/give-me-break-oversized-fit-t-shirt-554130-1668148803-1.jpg",
+      "name": "Women's Orange Give Me Break Graphic Printed Oversized T-shirt",
+      "price": 449,
+      "act_price": "₹1299",
+      "PriceBox": "₹419",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": "",
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/inner-peace-boyfriend-t-shirt-navy-blue-295707-1661352673-1.jpg",
+      "name": "Inner Peace Boyfriend T-Shirt Navy Blue",
+      "price": 345,
+      "act_price": "₹999",
+      "PriceBox": "₹319",
+      "plp": "BOYFRIEND FIT",
+      "clr-shade-3": 4.5,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-green-one-day-typography-oversized-t-shirt-516681-1668066455-1.jpg",
+      "name": "Women's Green One Day Typography Oversized T-shirt",
+      "price": 699,
+      "act_price": "₹1399",
+      "PriceBox": "₹639",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "wishlist-icon-animate src": "https://images.bewakoof.com/web/Wishlist.svg"
+    }
+  ],
+  "Women_sweatshirt":[
+    {
+      "image": "https://images.bewakoof.com/t640/smile-toroto-oversized-sweatshirt-554300-1668173765-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Black Smile Totoro Graphic Printed Oversized Sweatshirt",
+      "price": 1399,
+      "act_price": "₹2499",
+      "PriceBox": "₹1289",
+      "clr-shade-3": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/joey-doesn-t-share-food-oversized-sweatshirt-554155-1668148766-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Black Joey Doesn't Share Food Typography Oversized Sweatshirt",
+      "price": 1399,
+      "act_price": "₹2499",
+      "PriceBox": "₹1289",
+      "clr-shade-3": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-vibin-thrivin-oversized-sweatshirt-549262-1668063537-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Black Vibin & Thrivin Typography Oversized Sweatshirt",
+      "price": 1499,
+      "act_price": "₹2499",
+      "PriceBox": "₹1379",
+      "clr-shade-3": 4.5
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-solid-pink-sweatshirt-366301-1656148068-1.jpg",
+      "plp": "RELAXED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Solid Pink Relaxed Fit Sweatshirt",
+      "price": 867,
+      "act_price": "₹1349",
+      "PriceBox": "₹799",
+      "clr-shade-3": 4.7
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-wax-yellow-solid-super-loose-sweatshirt-501227-1665663819-1.jpg",
+      "plp": "SUPER LOOSE FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Wax Yellow Super Loose Sweatshirt",
+      "price": 999,
+      "act_price": "₹2299",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-barely-pink-solid-super-loose-sweatshirt-501262-1665664400-1.jpg",
+      "plp": "SUPER LOOSE FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Barely Pink Super Loose Sweatshirt",
+      "price": 999,
+      "act_price": "₹2299",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.5
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-wax-yellow-solid-oversized-sweatshirt-504137-1665663973-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Wax Yellow Oversized Crop Sweatshirt",
+      "price": 799,
+      "act_price": "₹1899",
+      "PriceBox": "₹739",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-barely-pink-solid-oversized-sweatshirt-504140-1665664021-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Barely Pink Oversized Sweatshirt",
+      "price": 799,
+      "act_price": "₹1899",
+      "PriceBox": "₹739",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-wax-yellow-solid-oversized-sweatshirt-501216-1665663771-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Wax Yellow Oversized Sweatshirt",
+      "price": 999,
+      "act_price": "₹2299",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-black-solid-super-loose-sweatshirt-501228-1661350625-1.jpg",
+      "plp": "SUPER LOOSE FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Black Super Loose Fit Sweatshirt",
+      "price": 999,
+      "act_price": "₹2299",
+      "PriceBox": "₹919",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-ginger-root-solid-oversized-sweatshirt-501218-1663664972-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Ginger Root Oversized Sweatshirt",
+      "price": 867,
+      "act_price": "₹1899",
+      "PriceBox": "₹799",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-lavender-fog-solid-oversized-sweatshirt-501260-1663664780-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Lavender Fog Oversized Sweatshirt",
+      "price": 867,
+      "act_price": "₹1899",
+      "PriceBox": "₹799",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-harbor-gray-solid-oversized-sweatshirt-501265-1661351276-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Harbor Gray Oversized Sweatshirt",
+      "price": 867,
+      "act_price": "₹1899",
+      "PriceBox": "₹799",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-white-all-over-printed-sweatshirt-542609-1663330877-1.jpg",
+      "plp": "",
+      "brandname": "THE DRY STATE",
+      "name": "Women's White All Over Printed Hooded Sweatshirt",
+      "price": 899,
+      "act_price": "₹1799",
+      "PriceBox": "₹849",
+      "clr-shade-3": 5
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-printed-sweatshirt-390338-1655935542-1.JPG",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Women's Black BTS Printed Sweatshirt",
+      "price": 819,
+      "act_price": "₹1699",
+      "PriceBox": "₹749",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/sage-fashion-oversized-sweatshirt-366311-1655933409-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Green Oversized Sweatshirt",
+      "price": 1350,
+      "act_price": "₹1449",
+      "PriceBox": "₹1229",
+      "clr-shade-3": 4.6
+    },
+    {
+      "image": "https://images.bewakoof.com/t320/instafab-pluswomenplussize-solid-stylish-casual-winter-zipper-hooded-sweatshirt-368434-1624013462.jpg",
+      "plp": "PLUS SIZE",
+      "brandname": "Instafab Plus",
+      "name": "Women's Plus Size Solid Stylish Casual Winter Zipper Hooded Sweatshirt",
+      "price": 1199,
+      "act_price": "₹2399",
+      "PriceBox": "₹1129",
+      "clr-shade-3": 4.8
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/white-plus-size-solid-sweatshirt-362773-1656175390-1.jpg",
+      "plp": "PLUS SIZE",
+      "brandname": "Bewakoof",
+      "name": "White Plus Size Solid Sweatshirt",
+      "price": 827,
+      "act_price": "₹1749",
+      "PriceBox": "₹759",
+      "clr-shade-3": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/feel-good-lilac-fleece-sweatshirt-454657-1656054686-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "brandname": "Bewakoof",
+      "name": "Feel Good Lilac Fleece Sweatshirt",
+      "price": 736,
+      "act_price": "₹1349",
+      "PriceBox": "₹679",
+      "clr-shade-3": 4.7
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/music-bear-sweatshirt-454588-1656054670-1.jpg",
+      "plp": "",
+      "brandname": "Bewakoof",
+      "name": "Music Bear Sweatshirt",
+      "price": 551,
+      "act_price": "₹1649",
+      "PriceBox": "₹509",
+      "clr-shade-3": ""
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-oversized-winter-black-sweatshirt-368341-1656197050-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "brandname": "Bewakoof",
+      "name": "Women's Oversized Winter Black Sweatshirt",
+      "price": 964,
+      "act_price": "₹1449",
+      "PriceBox": "₹889",
+      "clr-shade-3": 4.6
+    }
+  ],
+  "Nightsuit":[
+    {
+      "image": "https://images.bewakoof.com/t320/women-s-red-grey-sleigh-all-day-printed-cotton-nightsuit-484918-1648556865-1.jpg",
+      "brandname": "SlumberJill",
+      "name": "Women's Red & Grey Sleigh All Day Printed Cotton Nightsuit",
+      "price": 832,
+      "act_price": "₹1649",
+      "PriceBox": "₹789"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-grey-pelican-printed-nightsuit-486084-1656056488-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Grey Pelican Printed Nightsuit",
+      "price": 740,
+      "act_price": "₹1899",
+      "PriceBox": "₹699"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-purple-striped-nightsuit-486052-1656056476-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Purple Striped Nightsuit",
+      "price": 942,
+      "act_price": "₹2299",
+      "PriceBox": "₹889"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-purple-graphic-printed-nightsuit-set-547375-1665123161-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Purple and Black Graphic Printed Nightsuit",
+      "price": 1055,
+      "act_price": "₹2199",
+      "PriceBox": "₹989"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-orange-donut-all-over-printed-short-night-dress-480356-1656191382-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Orange Donut All Over Printed Short Night Dress",
+      "price": 597,
+      "act_price": "₹1299",
+      "PriceBox": "₹559"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-blue-emoji-graphic-printed-nightsuit-544687-1664260304-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Blue Emoji Graphic Printed Nightsuit",
+      "price": 1135,
+      "act_price": "₹1899",
+      "PriceBox": "₹1069"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-green-nightsuit-set-547361-1665123319-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Green Nightsuit",
+      "price": 1049,
+      "act_price": "₹2499",
+      "PriceBox": "₹989"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-red-geometric-printed-nightsuit-541328-1662726731-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Red Geometric Printed Nightsuit",
+      "price": 825,
+      "act_price": "₹1399",
+      "PriceBox": "₹779"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-maroon-graphic-printed-nightsuit-set-547358-1665122644-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Maroon Graphic Printed Nightsuit",
+      "price": 1439,
+      "act_price": "₹2399",
+      "PriceBox": "₹1359"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-cream-nightsuit-set-547372-1665123642-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Cream Nightsuit",
+      "price": 1259,
+      "act_price": "₹2099",
+      "PriceBox": "₹1189"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-grey-nightsuit-set-547351-1665122458-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Grey Nightsuit",
+      "price": 1499,
+      "act_price": "₹2499",
+      "PriceBox": "₹1419"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-purple-all-over-butterfly-printed-nightsuit-481054-1655974859-1.jpg",
+      "brandname": "Bannosswagger",
+      "name": "Women's Purple All Over Butterfly Printed Nightsuit",
+      "price": 999,
+      "act_price": "₹2599",
+      "PriceBox": "₹949"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-blue-black-all-over-printed-nightsuit-481094-1655983008-1.jpg",
+      "brandname": "Bannosswagger",
+      "name": "Women's Blue & Black All Over Printed Nightsuit",
+      "price": 999,
+      "act_price": "₹2599",
+      "PriceBox": "₹949"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-pink-glow-like-a-boss-typography-nightsuit-546478-1664800698-1.jpg",
+      "brandname": "SlumberJill",
+      "name": "Women's Pink Glow Like a Boss Typography Nightsuit",
+      "price": 1099,
+      "act_price": "₹2099",
+      "PriceBox": "₹1039"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-grey-all-over-emoji-printed-nightsuit-541294-1662726811-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Grey All Over Emoji Printed Nightsuit",
+      "price": 1439,
+      "act_price": "₹2399",
+      "PriceBox": "₹1359"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/clovia-print-me-pretty-kaftan-in-green-343797-1656195800-1.jpg",
+      "brandname": "Clovia",
+      "name": "Print Me Pretty Kaftan In Green",
+      "price": 766,
+      "act_price": "₹1299",
+      "PriceBox": "₹729"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-purple-graphic-printed-nightsuit-set-547357-1665123478-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Purple Graphic Printed Nightsuit",
+      "price": 979,
+      "act_price": "₹1999",
+      "PriceBox": "₹919"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-grey-yellow-monster-emoji-graphic-printed-nightsuit-544689-1664259297-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Grey & Yellow Monster Emoji Graphic Printed Nightsuit",
+      "price": 857,
+      "act_price": "₹2599",
+      "PriceBox": "₹809"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-white-grey-graphic-printed-nightsuit-544691-1664259796-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's White & Grey Graphic Printed Nightsuit",
+      "price": 659,
+      "act_price": "₹1899",
+      "PriceBox": "₹629"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-blue-y2k-abstract-printed-nightsuit-544669-1664260513-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Blue Y2K Abstract Printed Nightsuit",
+      "price": 1375,
+      "act_price": "₹2299",
+      "PriceBox": "₹1299"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-all-over-floral-printed-nightsuit-544681-1664259176-1.jpg",
+      "brandname": "Clovia",
+      "name": "Women's Black All Over Floral Printed Nightsuit",
+      "price": 721,
+      "act_price": "₹1899",
+      "PriceBox": "₹689"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-blue-all-over-elephant-printed-nightsuit-481073-1655982905-1.jpg",
+      "brandname": "Bannosswagger",
+      "name": "Women's Blue All Over Elephant Printed Nightsuit",
+      "price": 839,
+      "act_price": "₹2099",
+      "PriceBox": "₹799"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-beige-all-over-leaf-printed-nightsuit-481070-1655982884-1.jpg",
+      "brandname": "Bannosswagger",
+      "name": "Women's Beige All Over Leaf Printed Nightsuit",
+      "price": 999,
+      "act_price": "₹2499",
+      "PriceBox": "₹949"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-nightsuits-538305-1661337231-1.jpg",
+      "brandname": "Bannosswagger",
+      "name": "Women's Black Nightsuits",
+      "price": 679,
+      "act_price": "₹1699",
+      "PriceBox": "₹649"
+    }
+  ],
+  "Top":[
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-sleeveless-rib-crop-top-516692-1667399350-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Sleeveless Slim Fit Rib Crop Top",
+      "price": 499,
+      "act_price": "₹1099",
+      "PriceBox": "₹459"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-rib-snug-fit-crop-top-516910-1667398951-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Rib Slim Fit Crop Top",
+      "price": 599,
+      "act_price": "₹1099",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-white-mickey-aop-short-top-441403-1655750660-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's White Mickey AOP Short Top",
+      "price": 431,
+      "act_price": "₹799",
+      "PriceBox": "₹399"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-tie-dye-short-top-445450-1655751198-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Tie & Dye Relaxed Fit Short Top",
+      "price": 599,
+      "act_price": "₹999",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/whatever-aop-short-top-362299-1655750847-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Pink Whatever Typography Relaxed Fit Short Top",
+      "price": 431,
+      "act_price": "₹1299",
+      "PriceBox": "₹399"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/bubble-gum-two-panel-stripe-color-block-short-top-366252-1655751035-1.jpg",
+      "plp": "BUY 2 GET 1",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Bubble Gum Two Panel Stripe Color Block Short Top",
+      "price": 388,
+      "act_price": "₹1299",
+      "PriceBox": "₹359"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-sun-kissed-green-arm-vent-slim-fit-t-shirt-490252-1655749221-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Sun-Kissed Green Arm Vent Slim Fit T-shirt",
+      "price": 722,
+      "act_price": "₹1149",
+      "PriceBox": "₹659"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-birthday-yellow-stripe-short-top-516732-1668168140-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": "",
+      "brandname": "Bewakoof",
+      "name": "Women's Birthday Yellow Striped Relaxed Fit Short Top",
+      "price": 699,
+      "act_price": "₹1299",
+      "PriceBox": "₹639"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-aop-short-top-512364-1663660745-1.jpg",
+      "plp": "BUY 2 FOR 599",
+      "clr-shade-3": 4.7,
+      "brandname": "Bewakoof",
+      "name": "Women's Pink All Over Printed Short Top",
+      "price": 367,
+      "act_price": "₹799",
+      "PriceBox": "₹339"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-ice-water-blue-solid-short-top-512366-1664287096-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Ice Water Blue Relaxed Fit Short Top",
+      "price": 399,
+      "act_price": "₹799",
+      "PriceBox": "₹369"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/womens-solid-short-top-516424-1665664749-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Slim Fit Rib Crop Top",
+      "price": 599,
+      "act_price": "₹799",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-antique-white-rib-crop-top-525754-1665663701-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.7,
+      "brandname": "Bewakoof",
+      "name": "Women's Antique White Slim Fit Rib Crop Top",
+      "price": 599,
+      "act_price": "₹1099",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-storm-green-rib-crop-top-525755-1666341639-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Green Slim Fit Rib Crop Top",
+      "price": 599,
+      "act_price": "₹1099",
+      "PriceBox": "₹549"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/womens-solid-short-top-516434-1663052687-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Pink Slim Fit Short Top",
+      "price": 359,
+      "act_price": "₹1099",
+      "PriceBox": "₹329"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-chilled-out-green-stripe-flared-top-502771-1664363806-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Chilled Out Green Striped Top",
+      "price": 540,
+      "act_price": "₹1299",
+      "PriceBox": "₹499"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-black-fragile-printed-top-542465-1663311798-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Fragile Graphic Printed Slim Fit T-shirt",
+      "price": 495,
+      "act_price": "₹899",
+      "PriceBox": "₹459"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/womens-solid-rib-cut-out-crop-top-516369-1663052252-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Pink Rib Cut Out Slim Fit Crop Top",
+      "price": 449,
+      "act_price": "₹1199",
+      "PriceBox": "₹419"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-very-peri-chest-cut-out-t-shirt-521158-1659110528-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Very Peri Chest Cut-Out Slim Fit T-shirt",
+      "price": 449,
+      "act_price": "₹999",
+      "PriceBox": "₹409"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-white-aop-slim-fit-snug-blouse-473422-1656148831-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.4,
+      "brandname": "Bewakoof",
+      "name": "Women's White AOP Slim Fit Snug Blouse",
+      "price": 459,
+      "act_price": "₹799",
+      "PriceBox": "₹419"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/killer-brown-stripe-short-top-405539-1656027859-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Brown & White Stripe Relaxed Fit Short Top",
+      "price": 499,
+      "act_price": "₹799",
+      "PriceBox": "₹459"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/mustard-color-block-tank-top-355666-1656148021-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Mustard Color Block Slim Fit Tank Top",
+      "price": 413,
+      "act_price": "₹499",
+      "PriceBox": "₹379"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-white-green-striped-top-286066-1656143903-1.jpg",
+      "plp": "",
+      "clr-shade-3": "",
+      "brandname": "Style Quotient",
+      "name": "Women's White & Green Striped Top",
+      "price": 399,
+      "act_price": "₹1699",
+      "PriceBox": "₹379"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-white-multicolor-stripe-slim-fit-snug-blouse-473428-1656148838-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's White Multicolor Stripe Slim Fit Snug Blouse",
+      "price": 499,
+      "act_price": "₹799",
+      "PriceBox": "₹459"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-color-block-crop-top-509935-1658245320-1.jpg",
+      "plp": "SLIM FIT",
+      "clr-shade-3": "",
+      "brandname": "Rigo",
+      "name": "Women's Black Color Block Crop Top",
+      "price": 395,
+      "act_price": "₹899",
+      "PriceBox": "₹369"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-multicoloured-printed-regular-top-341399-1656146093-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.4,
+      "brandname": "Style Quotient",
+      "name": "Women's Multicoloured Printed Regular Top",
+      "price": 549,
+      "act_price": "₹1299",
+      "PriceBox": "₹519"
+    }
+  ],
+  "Hoodies": [
+    {
+      "image": "https://images.bewakoof.com/t640/women-lavender-fog-solid-oversized-hoodie-501320-1663262920-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Purple Oversized Hoodie",
+      "price": 1049,
+      "act_price": "₹2599",
+      "PriceBox": "₹969"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-solid-black-oversized-hoodies-368338-1656174457-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Solid Black Oversized Hoodies",
+      "price": 1172,
+      "act_price": "₹1649",
+      "PriceBox": "₹1079"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/smile-totoro-oversized-hoodie-sweatshirt-554301-1668173563-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": "",
+      "brandname": "Bewakoof",
+      "name": "Women's Harbor Gray Smile Totoro Graphic Printed Oversized Hoodie",
+      "price": 1499,
+      "act_price": "₹2999",
+      "PriceBox": "₹1379"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-solid-black-zipper-hoodie-361459-1655932974-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Zipper Hoodie",
+      "price": 1049,
+      "act_price": "₹1949",
+      "PriceBox": "₹969"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-solid-dusty-pink-hoodie-dress-368344-1655933574-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Pink Raglan Sleeve Hoodie Dress",
+      "price": 1172,
+      "act_price": "₹1899",
+      "PriceBox": "₹1079"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/pastel-lilac-fashion-sweatshirt-hoodie-dress-366300-1656184832-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.9,
+      "brandname": "Bewakoof",
+      "name": "Pastel Lilac Fashion Sweatshirt Hoodie Dress",
+      "price": 1049,
+      "act_price": "₹1949",
+      "PriceBox": "₹969"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/give-me-break-oversized-hoodie-554131-1668148882-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": "",
+      "brandname": "Bewakoof",
+      "name": "Women's Purple Give Me Break Graphic Printed Oversized Hoodie",
+      "price": 1499,
+      "act_price": "₹2999",
+      "PriceBox": "₹1379"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-bridal-rose-solid-oversized-hoodie-501233-1665663893-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Pink Oversized Hoodie",
+      "price": 1499,
+      "act_price": "₹2999",
+      "PriceBox": "₹1379"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-harbor-gray-solid-oversized-hoodie-501263-1665664448-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.7,
+      "brandname": "Bewakoof",
+      "name": "Women's Harbor Gray Oversized Hoodie",
+      "price": 1299,
+      "act_price": "₹2999",
+      "PriceBox": "₹1199"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-black-solid-regular-hoodie-501234-1661350752-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Hoodie",
+      "price": 1049,
+      "act_price": "₹2599",
+      "PriceBox": "₹969"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-harbor-gray-solid-regular-hoodie-501313-1661351154-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Green Hoodie",
+      "price": 1049,
+      "act_price": "₹2599",
+      "PriceBox": "₹969"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-plus-size-solid-hoodie-aw-22-502043-1665121137-1.jpg",
+      "plp": "PLUS SIZE",
+      "clr-shade-3": 4.5,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Plus Size Hoodie",
+      "price": 1253,
+      "act_price": "₹3399",
+      "PriceBox": "₹1169"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-black-solid-oversized-hoodie-501229-1663262883-1.jpg",
+      "plp": "OVERSIZED FIT",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Black Oversized Hoodie",
+      "price": 1199,
+      "act_price": "₹2599",
+      "PriceBox": "₹1099"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-typography-athleisure-hoodie-463772-1658661260-1.jpg",
+      "plp": "RELAXED FIT",
+      "clr-shade-3": 4.8,
+      "brandname": "PLAY BY BEWAKOOF",
+      "name": "Women's Black Typography Athleisure Hoodie",
+      "price": 499,
+      "act_price": "₹1299",
+      "PriceBox": "₹459"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-go-weird-typography-hoodie-541542-1663135465-1.jpg",
+      "plp": "",
+      "clr-shade-3": "",
+      "brandname": "Mad Over Print",
+      "name": "Women's Black Go Weird Typography Hoodie",
+      "price": 889,
+      "act_price": "₹2399",
+      "PriceBox": "₹839"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-colourful-skull-graphic-printed-hoodie-541411-1662971600-1.jpg",
+      "plp": "",
+      "clr-shade-3": "",
+      "brandname": "Mad Over Print",
+      "name": "Women's Black Colourful Skull Graphic Printed Hoodie",
+      "price": 889,
+      "act_price": "₹2399",
+      "PriceBox": "₹839"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-s-black-jujustu-kaisen-graphic-printed-hoodie-541415-1665723154-1.jpg",
+      "plp": "",
+      "clr-shade-3": 5,
+      "brandname": "Mad Over Print",
+      "name": "Women's Black Jujustu Kaisen Graphic Printed Hoodie",
+      "price": 889,
+      "act_price": "₹2399",
+      "PriceBox": "₹839"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/women-deep-teal-solid-regular-hoodie-501235-1663660293-1.jpg",
+      "plp": "",
+      "clr-shade-3": 4.6,
+      "brandname": "Bewakoof",
+      "name": "Women's Blue Hoodie",
+      "price": 1157,
+      "act_price": "₹2699",
+      "PriceBox": "₹1059"
+    }
   ]
 }

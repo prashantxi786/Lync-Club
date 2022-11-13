@@ -5,7 +5,7 @@ const navbar = () => {
 <div id="mwm">
     <div id="mwmdiv">
         <div class="men">
-            <a id="men" href="">MEN</a>
+            <a id="men" href="./men.html">MEN</a>
             <div class="dropdown">
                 <a href="" style ="font-size:15px; color:black;">Topwear</a>
                 <a href="" style ="font-size:15px; color:black;">Bottomwear</a>
@@ -68,7 +68,7 @@ const navbar = () => {
             </div>
         </div>
         <div class="men">
-            <a id="women" href="">WOMEN</a>
+            <a id="women" href="./women.html">WOMEN</a>
                 <div class="dropdown">
                     <a href="" style ="font-size:15px; color:black;">Topwear</a>
                     <a href="" style ="font-size:15px; color:black;">Bottomwear</a>
