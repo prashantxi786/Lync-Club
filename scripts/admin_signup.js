@@ -28,11 +28,11 @@ document.getElementById('signup').onclick=async()=>{
         }
     })
     let data =await api.json()
+
+
+    
    
-    setTimeout(()=>{
-        window.location.href="login_admin.html"
-        console.log(data)
-    },1000)
+   
 
 
 
