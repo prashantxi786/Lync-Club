@@ -1,8 +1,8 @@
 import { navbar } from "./navbar.js";
 document.getElementById("navbar").innerHTML = navbar();
 let data = JSON.parse(localStorage.getItem("cover"));
-let b = localStorage.getItem("brand");
-let x = b.toUpperCase();
+let b = JSON.parse(localStorage.getItem("brand"));
+// let x = b.toUpperCase();
 // console.log(data.image);
 const append = (data, b) => {
   let imgdiv = document.getElementById("imgg");
@@ -16,7 +16,7 @@ const append = (data, b) => {
   let bdname = document.getElementById("bdname");
   bdname.innerText = b;
 };
-append(data, x);
+append(data, b);
 
 let floww = document.getElementById("floww");
 floww.addEventListener("click", () => {

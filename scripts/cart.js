@@ -129,5 +129,5 @@ floww.addEventListener("click", () => {
 
 let payment = document.getElementById("payment");
 payment.addEventListener("click", () => {
-  window.location.href = "payment .html";
+  window.location.href = "payment.html";
 });
